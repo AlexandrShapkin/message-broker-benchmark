@@ -1,0 +1,32 @@
+schema_version: 1
+
+toolchain:
+  go: TBD
+  python: TBD
+
+brokers:
+  nats:
+    version: TBD
+    image: TBD
+    digest: TBD
+
+  mosquitto:
+    version: TBD
+    image: TBD
+    digest: TBD
+
+  rabbitmq:
+    version: TBD
+    image: TBD
+    digest: TBD
+
+  kafka:
+    version: TBD
+    image: TBD
+    digest: TBD
+
+clients:
+  nats_go: TBD
+  mqtt: TBD
+  amqp: TBD
+  kafka: TBD

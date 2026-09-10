@@ -1,0 +1,45 @@
+# Go
+/bin/
+*.test
+coverage.out
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Certificates / credentials
+*.key
+*.pem
+secrets/
+
+# Generated benchmark data
+/results/*
+!/results/.gitkeep
+!/results/examples/
+
+# Analysis outputs
+/analysis/output/
+/reports/generated/
+
+# Temporary
+/tmp/
+*.tmp
+*.log
