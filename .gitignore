@@ -37,9 +37,12 @@ secrets/
 
 # Analysis outputs
 /analysis/output/
+/analysis/smoke-output/
 /reports/generated/
 
 # Temporary
 /tmp/
 *.tmp
 *.log
+.serena/
+.cache/

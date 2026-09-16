@@ -1,32 +1,26 @@
 schema_version: 1
-
 toolchain:
-  go: TBD
-  python: TBD
-
+  go: 1.27.0
+  python: '3.14'
 brokers:
   nats:
-    version: TBD
-    image: TBD
-    digest: TBD
-
+    version: 2.11.8
+    image: nats:2.11.8-alpine
+    digest: sha256:71092f77d707a4a81b12aca5096d6b2d2e07ad16aa57c84066940a17af74f61a
   mosquitto:
-    version: TBD
-    image: TBD
-    digest: TBD
-
+    version: 2.0.22
+    image: eclipse-mosquitto:2.0.22
+    digest: sha256:212f89e1eaeb2c322d6441b64396e3346026674db8fa9c27beac293405c32b3c
   rabbitmq:
-    version: TBD
-    image: TBD
-    digest: TBD
-
+    version: 4.1.4
+    image: rabbitmq:4.1.4-management
+    digest: sha256:294b01e1796a8acede4619f32a1c394fae1f8021e57986ea01aad38dc2a4f502
   kafka:
-    version: TBD
-    image: TBD
-    digest: TBD
-
+    version: 4.0.1
+    image: apache/kafka:4.0.1
+    digest: sha256:9a129e03121d46d74349a480f8f17082df3dd411b28281c9eabb95cf096370b9
 clients:
-  nats_go: TBD
-  mqtt: TBD
-  amqp: TBD
-  kafka: TBD
+  nats_go: v1.47.0
+  mqtt: v1.5.1
+  amqp: v1.10.0
+  kafka: v1.19.5

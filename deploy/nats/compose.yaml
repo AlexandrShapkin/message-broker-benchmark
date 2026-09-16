@@ -1,0 +1,19 @@
+services:
+  broker:
+    image: ${BENCH_IMAGE:-nats:2.11.8-alpine@sha256:71092f77d707a4a81b12aca5096d6b2d2e07ad16aa57c84066940a17af74f61a}
+    command: ["-c", "/etc/nats/nats.conf"]
+    ports: ["127.0.0.1:4222:4222", "127.0.0.1:8222:8222"]
+    volumes:
+      - ../../configs/nats/nats.conf:/etc/nats/nats.conf:ro
+      - data:/data
+    healthcheck:
+      test: ["CMD", "wget", "-q", "-O", "-", "http://127.0.0.1:8222/healthz"]
+      interval: 24h
+      start_period: 120s
+      start_interval: 1s
+      timeout: 2s
+      retries: 120
+    ulimits:
+      nofile: {soft: 262144, hard: 262144}
+volumes:
+  data: {}

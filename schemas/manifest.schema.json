@@ -1,0 +1,159 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "manifest_version",
+    "run_id",
+    "status",
+    "failure_stage",
+    "failure_reason",
+    "started_at_utc",
+    "finished_at_utc",
+    "scenario",
+    "source",
+    "sut",
+    "host",
+    "workload",
+    "result",
+    "warnings",
+    "artifacts"
+  ],
+  "properties": {
+    "manifest_version": {
+      "const": 1
+    },
+    "run_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "running",
+        "completed",
+        "failed"
+      ]
+    },
+    "failure_stage": {
+      "type": "string"
+    },
+    "failure_reason": {
+      "type": "string"
+    },
+    "started_at_utc": {
+      "type": "string"
+    },
+    "finished_at_utc": {
+      "type": "string"
+    },
+    "scenario": {
+      "type": "object"
+    },
+    "source": {
+      "type": "object"
+    },
+    "sut": {
+      "type": "object"
+    },
+    "host": {
+      "type": "object"
+    },
+    "workload": {
+      "type": "object"
+    },
+    "result": {
+      "type": "object"
+    },
+    "warnings": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "artifacts": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "pattern": "^[0-9a-f]{64}$"
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {"properties": {"status": {"const": "failed"}}},
+      "then": {"properties": {
+        "failure_stage": {"minLength": 1},
+        "failure_reason": {"minLength": 1}
+      }}
+    },
+    {
+      "if": {"properties": {
+        "status": {"const": "completed"},
+        "result": {"not": {"required": ["synthetic"], "properties": {"synthetic": {"const": true}}}}
+      }},
+      "then": {"properties": {
+        "failure_stage": {"const": ""},
+        "failure_reason": {"const": ""},
+        "finished_at_utc": {"type": "string", "minLength": 1},
+        "scenario": {
+          "required": ["name", "sha256", "random_seed", "repetition", "configuration"],
+          "properties": {
+            "name": {"type": "string", "minLength": 1},
+            "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+            "random_seed": {"type": "integer"},
+            "repetition": {"type": "integer", "minimum": 1},
+            "configuration": {"type": "object"}
+          }
+        },
+        "source": {
+          "required": ["commit", "dirty"],
+          "properties": {"commit": {"type": ["string", "null"]}, "dirty": {"type": "boolean"}}
+        },
+        "sut": {
+          "required": ["broker", "version", "profile", "image", "image_digest", "configuration_sha256", "protocol", "client_library", "client_library_version"],
+          "properties": {
+            "image_digest": {"type": "string", "pattern": "^.+@sha256:[0-9a-f]{64}$"},
+            "configuration_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+            "version": {"type": "string", "minLength": 1},
+            "image": {"type": "string", "minLength": 1},
+            "broker": {"type": "string", "minLength": 1},
+            "profile": {"enum": ["fast", "durable"]},
+            "protocol": {"type": "string", "minLength": 1},
+            "client_library": {"type": "string", "minLength": 1},
+            "client_library_version": {"type": "string", "minLength": 1}
+          }
+        },
+        "workload": {
+          "required": ["requested_clients", "actual_logical_clients", "actual_connections", "requested_rate", "actual_offered_rate", "payload_bytes", "timing"],
+          "properties": {
+            "requested_clients": {"type": "integer", "minimum": 0},
+            "actual_logical_clients": {"type": "integer", "minimum": 0},
+            "actual_connections": {"type": ["integer", "null"], "minimum": 0},
+            "requested_rate": {"type": "number", "minimum": 0},
+            "actual_offered_rate": {"type": "number", "minimum": 0},
+            "payload_bytes": {"type": "integer", "minimum": 64},
+            "timing": {"type": "object"}
+          }
+        },
+        "result": {
+          "required": ["generator_saturated", "broker_saturated", "counters", "requested_messages", "correctness_invalid_reason"],
+          "properties": {
+            "generator_saturated": {"type": "boolean"},
+            "broker_saturated": {"type": ["boolean", "null"]},
+            "requested_messages": {"type": "number", "minimum": 0},
+            "correctness_invalid_reason": {"type": "string"},
+            "counters": {
+              "type": "object",
+              "required": ["sent", "producer_accepted", "delivered", "unique_delivered", "consumer_acked", "lost", "duplicate", "unexpected", "reordered", "errors", "disconnects"],
+              "additionalProperties": {"type": "integer", "minimum": 0}
+            }
+          }
+        }
+      }}
+    }
+  ],
+  "$schema": "https://json-schema.org/draft/2020-12/schema"
+}

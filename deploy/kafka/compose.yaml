@@ -1,0 +1,26 @@
+services:
+  broker:
+    image: ${BENCH_IMAGE:-apache/kafka:4.0.1@sha256:9a129e03121d46d74349a480f8f17082df3dd411b28281c9eabb95cf096370b9}
+    user: "0:0"
+    entrypoint: ["/bin/bash", "-ec"]
+    command:
+      - |
+        /opt/kafka/bin/kafka-storage.sh format --ignore-formatted -t MkU3OEVBNTcwNTJENDM2Qk -c /etc/bench/server.properties
+        exec /opt/kafka/bin/kafka-server-start.sh /etc/bench/server.properties
+    environment:
+      KAFKA_HEAP_OPTS: -Xms1g -Xmx1g
+    ports: ["127.0.0.1:9092:9092"]
+    volumes:
+      - ../../configs/kafka/server.properties:/etc/bench/server.properties:ro
+      - data:/var/lib/kafka/data
+    healthcheck:
+      test: ["CMD", "/opt/kafka/bin/kafka-broker-api-versions.sh", "--bootstrap-server", "127.0.0.1:9092"]
+      interval: 24h
+      start_period: 120s
+      start_interval: 1s
+      timeout: 10s
+      retries: 90
+    ulimits:
+      nofile: {soft: 262144, hard: 262144}
+volumes:
+  data: {}

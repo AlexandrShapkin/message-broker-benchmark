@@ -1,0 +1,19 @@
+services:
+  broker:
+    image: ${BENCH_IMAGE:-rabbitmq:4.1.4-management@sha256:294b01e1796a8acede4619f32a1c394fae1f8021e57986ea01aad38dc2a4f502}
+    hostname: mbb-rabbitmq
+    ports: ["127.0.0.1:5672:5672", "127.0.0.1:15672:15672"]
+    volumes:
+      - ../../configs/rabbitmq/rabbitmq.conf:/etc/rabbitmq/rabbitmq.conf:ro
+      - data:/var/lib/rabbitmq
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "-q", "check_port_connectivity"]
+      interval: 24h
+      start_period: 120s
+      start_interval: 1s
+      timeout: 5s
+      retries: 60
+    ulimits:
+      nofile: {soft: 262144, hard: 262144}
+volumes:
+  data: {}

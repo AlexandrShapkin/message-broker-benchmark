@@ -1,0 +1,50 @@
+schema_version: 1
+name: reconnect_storm
+experiment: reconnect_storm
+sut:
+  broker: nats
+  profile: fast
+  mode: reuse
+  image_digest: ''
+clients:
+  producers: 10
+  consumers: 10
+  active_producers: 0
+  active_consumers: 0
+traffic:
+  model: open_loop
+  total_rate_messages_per_sec: 100
+  payload_bytes: 256
+  consumer_delay_ms: 0
+  queue_capacity: 64
+  rate_tolerance: 0.05
+  burst_multiplier: 1
+  burst_every_seconds: 0
+  burst_duration_seconds: 0
+topology:
+  type: many_to_many
+  channels: 1
+  delivery: broadcast
+connection:
+  ramp_clients_per_second: 500
+  timeout_seconds: 600
+  operation_timeout_ms: 2000
+timing:
+  warmup_seconds: 30
+  measurement_seconds: 120
+  cooldown_seconds: 10
+collection:
+  system_interval_ms: 1000
+  latency_histograms: true
+  operation_samples: false
+  max_intervals: 100000
+repetitions: 3
+random_seed: 42
+fault:
+  at_seconds: 40
+  fraction: 0.5
+  downtime_seconds: 3
+  repeat_seconds: 0
+matrix:
+  axis: ''
+  values: []
