@@ -1,0 +1,11 @@
+{
+  "files": 14453,
+  "bytes": 60215606432,
+  "missing": [],
+  "extra": [],
+  "different": [],
+  "secret_pattern_files": [
+    "message-broker-benchmark/.venv/bin/ruff",
+    "message-broker-benchmark/.venv/lib/python3.14/site-packages/PIL/ImageFont.py"
+  ]
+}

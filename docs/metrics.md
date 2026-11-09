@@ -65,3 +65,6 @@ NATS `/varz`: connections, bytes/messages, memory/CPU, slow consumers. RabbitMQ
 `/api/overview`: connection/channel/queue totals, backlog, publish/delivery/ack
 statistics. Kafka JMX и MQTT `$SYS` пока не подключены: resource/protocol socket
 collection для них общая. Внутренние counters разных brokers не эквивалентны.
+
+Производные CSV записываются в UTF-8 с окончаниями строк LF; пустые поля означают
+отсутствующее значение. Исходные JSONL/HDR при экспорте не меняются.

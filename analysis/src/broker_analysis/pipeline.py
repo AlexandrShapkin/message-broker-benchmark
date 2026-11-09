@@ -414,7 +414,7 @@ def write_table(path: Path, rows: list[dict[str, Any]]) -> None:
     path.with_suffix('.json').write_text(json.dumps(rows, indent=2, allow_nan=False) + '\n')
     columns = sorted({k for row in rows for k in row})
     with path.with_suffix('.csv').open('w', newline='') as stream:
-        writer = csv.DictWriter(stream, fieldnames=columns)
+        writer = csv.DictWriter(stream, fieldnames=columns, lineterminator='\n')
         writer.writeheader()
         writer.writerows(rows)
     if rows:

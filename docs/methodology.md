@@ -124,3 +124,12 @@ FAST — broker-native ориентированный режим, DURABLE — б
 session, consumer ack или queue/partition. Смотрите [brokers.md](brokers.md).
 Формулируйте выводы только для конкретных workload, профиля, версий и оборудования.
 Не используйте shared CI performance values как исследовательские результаты.
+
+## Архивная baseline srv0
+
+Для публикации данных октября 2026 года применяется дополнительная проверка
+среды: явный disk resource alarm в broker log исключает запуск из основной
+сравнительной агрегации, сохраняя его показатели в отдельном наборе наблюдений.
+Это не автоматическое исключение из-за потерь. Правило, cohort и ограничения
+описаны в [ADR-0005](adr/0005-srv0-archival-baseline.md) и
+[отчёте baseline](../reports/baseline-srv0-20261109/README.md).

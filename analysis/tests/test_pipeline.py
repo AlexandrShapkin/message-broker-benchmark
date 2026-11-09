@@ -81,6 +81,7 @@ def test_raw_analysis_and_repetitions(tmp_path):
     assert groups[0]['repetitions_observed'] == 2
     assert groups[0]['p99_mean'] == 1
     assert (tmp_path / 'output/comparison.parquet').exists()
+    assert b'\r\n' not in (tmp_path / 'output/runs.csv').read_bytes()
     assert list((tmp_path / 'output').glob('*.svg'))
     assert list((tmp_path / 'output').glob('*.png'))
 

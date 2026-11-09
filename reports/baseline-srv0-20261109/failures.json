@@ -1,0 +1,128 @@
+[
+  {
+    "run_id": "20261001T134352Z-generator-self-test-3ca1a1ccf875580d",
+    "scenario": "generator-self-test",
+    "broker": null,
+    "stage": "CONNECT",
+    "reason": "dial tcp 127.0.0.1:46313: connect: cannot assign requested address"
+  },
+  {
+    "run_id": "20261001T144028Z-rabbitmq-smoke-fe6ca3d7dfebcfb2",
+    "scenario": "smoke",
+    "broker": null,
+    "stage": "PREPARE",
+    "reason": "another rabbitmq benchmark owns deployment: listen unix \u0000message-broker-benchmark-rabbitmq: bind: address already in use"
+  },
+  {
+    "run_id": "20261001T151205Z-kafka-pilot-kafka-density-boundary-b27032583d1212b9",
+    "scenario": "pilot-kafka-density-boundary",
+    "broker": "kafka",
+    "stage": "CONNECT",
+    "reason": "producer 4175: read tcp 127.0.0.1:37484->127.0.0.1:9092: read: connection reset by peer"
+  },
+  {
+    "run_id": "20261001T171137Z-nats-connection_density-6506201492a01178",
+    "scenario": "connection_density",
+    "broker": "nats",
+    "stage": "CONNECT",
+    "reason": "producer 5730: EOF"
+  },
+  {
+    "run_id": "20261001T171222Z-nats-connection_density-0cf931a9b616991f",
+    "scenario": "connection_density",
+    "broker": "nats",
+    "stage": "CONNECT",
+    "reason": "consumer 1: EOF"
+  },
+  {
+    "run_id": "20261001T171224Z-nats-connection_density-6c68ce082231e644",
+    "scenario": "connection_density",
+    "broker": "nats",
+    "stage": "SETUP",
+    "reason": "EOF"
+  },
+  {
+    "run_id": "20261001T171227Z-nats-connection_density-c9ca0075f4158769",
+    "scenario": "connection_density",
+    "broker": "nats",
+    "stage": "SETUP",
+    "reason": "EOF"
+  },
+  {
+    "run_id": "20261001T171229Z-nats-connection_density-947e9a57009dc142",
+    "scenario": "connection_density",
+    "broker": "nats",
+    "stage": "SETUP",
+    "reason": "EOF"
+  },
+  {
+    "run_id": "20261001T171231Z-nats-connection_density-1d99cde4c0021fcd",
+    "scenario": "connection_density",
+    "broker": "nats",
+    "stage": "SETUP",
+    "reason": "EOF"
+  },
+  {
+    "run_id": "20261004T113059Z-rabbitmq-nir1_final_connection_density-9af7fe63c6cbd051",
+    "scenario": "nir1_final_connection_density",
+    "broker": "rabbitmq",
+    "stage": "COLLECT",
+    "reason": "write /home/shapkin_as/message-broker-benchmark/results/20261004T113059Z-rabbitmq-nir1_final_connection_density-9af7fe63c6cbd051/correctness/summary.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T113059Z-rabbitmq-nir1_final_connection_density-9af7fe63c6cbd051/latency/publish.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T113059Z-rabbitmq-nir1_final_connection_density-9af7fe63c6cbd051/latency/delivery.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T113059Z-rabbitmq-nir1_final_connection_density-9af7fe63c6cbd051/latency/scheduling_lag.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T113059Z-rabbitmq-nir1_final_connection_density-9af7fe63c6cbd051/latency/connect.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T113059Z-rabbitmq-nir1_final_connection_density-9af7fe63c6cbd051/logs/broker.log: no space left on device"
+  },
+  {
+    "run_id": "20261004T113856Z-rabbitmq-nir1_final_connection_density-cba080009bacbc4d",
+    "scenario": "nir1_final_connection_density",
+    "broker": "rabbitmq",
+    "stage": "COLLECT",
+    "reason": "write /home/shapkin_as/message-broker-benchmark/results/20261004T113856Z-rabbitmq-nir1_final_connection_density-cba080009bacbc4d/correctness/summary.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T113856Z-rabbitmq-nir1_final_connection_density-cba080009bacbc4d/latency/publish.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T113856Z-rabbitmq-nir1_final_connection_density-cba080009bacbc4d/latency/delivery.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T113856Z-rabbitmq-nir1_final_connection_density-cba080009bacbc4d/latency/scheduling_lag.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T113856Z-rabbitmq-nir1_final_connection_density-cba080009bacbc4d/latency/connect.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T113856Z-rabbitmq-nir1_final_connection_density-cba080009bacbc4d/logs/broker.log: no space left on device"
+  },
+  {
+    "run_id": "20261004T114658Z-rabbitmq-nir1_final_connection_density-d7c8e647b19b3c14",
+    "scenario": "nir1_final_connection_density",
+    "broker": "rabbitmq",
+    "stage": "COLLECT",
+    "reason": "write /home/shapkin_as/message-broker-benchmark/results/20261004T114658Z-rabbitmq-nir1_final_connection_density-d7c8e647b19b3c14/correctness/summary.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T114658Z-rabbitmq-nir1_final_connection_density-d7c8e647b19b3c14/latency/publish.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T114658Z-rabbitmq-nir1_final_connection_density-d7c8e647b19b3c14/latency/delivery.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T114658Z-rabbitmq-nir1_final_connection_density-d7c8e647b19b3c14/latency/scheduling_lag.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T114658Z-rabbitmq-nir1_final_connection_density-d7c8e647b19b3c14/latency/connect.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T114658Z-rabbitmq-nir1_final_connection_density-d7c8e647b19b3c14/logs/broker.log: no space left on device"
+  },
+  {
+    "run_id": "20261004T115501Z-rabbitmq-nir1_final_connection_density-7c58ef698e294ede",
+    "scenario": "nir1_final_connection_density",
+    "broker": "rabbitmq",
+    "stage": "COLLECT",
+    "reason": "write /home/shapkin_as/message-broker-benchmark/results/20261004T115501Z-rabbitmq-nir1_final_connection_density-7c58ef698e294ede/correctness/summary.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T115501Z-rabbitmq-nir1_final_connection_density-7c58ef698e294ede/latency/publish.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T115501Z-rabbitmq-nir1_final_connection_density-7c58ef698e294ede/latency/delivery.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T115501Z-rabbitmq-nir1_final_connection_density-7c58ef698e294ede/latency/scheduling_lag.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T115501Z-rabbitmq-nir1_final_connection_density-7c58ef698e294ede/latency/connect.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T115501Z-rabbitmq-nir1_final_connection_density-7c58ef698e294ede/logs/broker.log: no space left on device"
+  },
+  {
+    "run_id": "20261004T120317Z-rabbitmq-nir1_final_connection_density-93a5d1c7bb3d751f",
+    "scenario": "nir1_final_connection_density",
+    "broker": "rabbitmq",
+    "stage": "COLLECT",
+    "reason": "write /home/shapkin_as/message-broker-benchmark/results/20261004T120317Z-rabbitmq-nir1_final_connection_density-93a5d1c7bb3d751f/correctness/summary.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T120317Z-rabbitmq-nir1_final_connection_density-93a5d1c7bb3d751f/latency/publish.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T120317Z-rabbitmq-nir1_final_connection_density-93a5d1c7bb3d751f/latency/delivery.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T120317Z-rabbitmq-nir1_final_connection_density-93a5d1c7bb3d751f/latency/scheduling_lag.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T120317Z-rabbitmq-nir1_final_connection_density-93a5d1c7bb3d751f/latency/connect.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T120317Z-rabbitmq-nir1_final_connection_density-93a5d1c7bb3d751f/logs/broker.log: no space left on device"
+  },
+  {
+    "run_id": "20261004T121132Z-rabbitmq-nir1_final_connection_density-3efe61df4c04197c",
+    "scenario": "nir1_final_connection_density",
+    "broker": "rabbitmq",
+    "stage": "WAIT_HEALTH",
+    "reason": "broker readiness: context deadline exceeded\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T121132Z-rabbitmq-nir1_final_connection_density-3efe61df4c04197c/latency/publish.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T121132Z-rabbitmq-nir1_final_connection_density-3efe61df4c04197c/latency/delivery.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T121132Z-rabbitmq-nir1_final_connection_density-3efe61df4c04197c/latency/scheduling_lag.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T121132Z-rabbitmq-nir1_final_connection_density-3efe61df4c04197c/latency/connect.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T121132Z-rabbitmq-nir1_final_connection_density-3efe61df4c04197c/logs/broker.log: no space left on device"
+  },
+  {
+    "run_id": "20261004T122243Z-rabbitmq-nir1_final_connection_density-96f0eadaacc9122b",
+    "scenario": "nir1_final_connection_density",
+    "broker": "rabbitmq",
+    "stage": "WAIT_HEALTH",
+    "reason": "broker readiness: context deadline exceeded\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T122243Z-rabbitmq-nir1_final_connection_density-96f0eadaacc9122b/latency/publish.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T122243Z-rabbitmq-nir1_final_connection_density-96f0eadaacc9122b/latency/delivery.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T122243Z-rabbitmq-nir1_final_connection_density-96f0eadaacc9122b/latency/scheduling_lag.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T122243Z-rabbitmq-nir1_final_connection_density-96f0eadaacc9122b/latency/connect.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T122243Z-rabbitmq-nir1_final_connection_density-96f0eadaacc9122b/logs/broker.log: no space left on device"
+  },
+  {
+    "run_id": "20261004T123353Z-rabbitmq-nir1_final_connection_density-6366b3546fcb7911",
+    "scenario": "nir1_final_connection_density",
+    "broker": "rabbitmq",
+    "stage": "WAIT_HEALTH",
+    "reason": "broker readiness: context deadline exceeded\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T123353Z-rabbitmq-nir1_final_connection_density-6366b3546fcb7911/latency/publish.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T123353Z-rabbitmq-nir1_final_connection_density-6366b3546fcb7911/latency/delivery.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T123353Z-rabbitmq-nir1_final_connection_density-6366b3546fcb7911/latency/scheduling_lag.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T123353Z-rabbitmq-nir1_final_connection_density-6366b3546fcb7911/latency/connect.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T123353Z-rabbitmq-nir1_final_connection_density-6366b3546fcb7911/logs/broker.log: no space left on device"
+  },
+  {
+    "run_id": "20261004T124503Z-rabbitmq-nir1_final_connection_density-bd2a29d65414ec6d",
+    "scenario": "nir1_final_connection_density",
+    "broker": "rabbitmq",
+    "stage": "WAIT_HEALTH",
+    "reason": "broker readiness: context deadline exceeded\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T124503Z-rabbitmq-nir1_final_connection_density-bd2a29d65414ec6d/latency/publish.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T124503Z-rabbitmq-nir1_final_connection_density-bd2a29d65414ec6d/latency/delivery.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T124503Z-rabbitmq-nir1_final_connection_density-bd2a29d65414ec6d/latency/scheduling_lag.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T124503Z-rabbitmq-nir1_final_connection_density-bd2a29d65414ec6d/latency/connect.hdr.json: no space left on device\nwrite /home/shapkin_as/message-broker-benchmark/results/20261004T124503Z-rabbitmq-nir1_final_connection_density-bd2a29d65414ec6d/logs/broker.log: no space left on device"
+  }
+]

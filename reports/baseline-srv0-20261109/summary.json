@@ -1,0 +1,21 @@
+{
+  "discovered": 290,
+  "included": 107,
+  "excluded": 183,
+  "status_counts": {
+    "completed": 268,
+    "failed": 18,
+    "incomplete": 4
+  },
+  "strict_groups": 22,
+  "observed_final": 112,
+  "host_confounded_completed": 5,
+  "validated_auxiliary": 148,
+  "classification_counts": {
+    "synthetic": 4,
+    "smoke": 16,
+    "exploratory": 145,
+    "scientific": 121,
+    "incomplete": 4
+  }
+}

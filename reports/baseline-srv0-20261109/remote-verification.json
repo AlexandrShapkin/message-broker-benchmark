@@ -1,0 +1,11 @@
+{
+  "verified": true,
+  "files": 8906,
+  "bytes": 59802422850,
+  "run_directories": 290,
+  "runs_with_files": 288,
+  "empty_run_directories": [
+    "20261004T125614Z-rabbitmq-nir1_final_connection_density-db6f5d3229c359d1",
+    "20261004T144130Z-nats-nir1_final_message_rate-02672892e02349da"
+  ]
+}

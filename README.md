@@ -126,3 +126,8 @@ client idle timeout. `make recovery` сохраняет архивы в `results
 
 Новый broker добавляется через factory, capabilities и deployment; runner,
 raw storage и analysis не копируются. Смотрите [ADR](docs/adr/0001-research-contract.md).
+
+## Базовые результаты srv0
+
+[Русский отчёт, таблицы, графики и архив исходных данных](reports/baseline-srv0-20261109/README.md)
+содержит измерения октября 2026 года и контракт сравнения с будущими брокерами.

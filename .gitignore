@@ -46,3 +46,6 @@ secrets/
 *.log
 .serena/
 .cache/
+
+# Private preservation workspace (published via versioned release)
+/preservation/

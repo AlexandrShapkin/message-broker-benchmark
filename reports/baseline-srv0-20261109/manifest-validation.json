@@ -1,0 +1,4027 @@
+[
+  {
+    "run_id": "20261001T133652Z-generator-self-test-f7b127033a877768",
+    "file": "manifest.json",
+    "sha256": "6c7317dd7238a9b9a131d0a51f452b40bcea8c7bbf5d81e15fb98de417bab885",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T133652Z-generator-self-test-f7b127033a877768",
+    "file": "manifest.partial.json",
+    "sha256": "051411b049d2ba1ec8014f6f6a43d2f7fd678844e32cfa631db2cf47ab477eac",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T133730Z-generator-self-test-8dac78ebfca158b4",
+    "file": "manifest.json",
+    "sha256": "9ceec1565c39d3418664643d4819624cf54d264bd9cd82c4e921b157860c676a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T133730Z-generator-self-test-8dac78ebfca158b4",
+    "file": "manifest.partial.json",
+    "sha256": "f670524819fac2ea832264b38dd79cbf0beadd6bb866b585b7d6e06876ba5a0f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T134257Z-generator-self-test-48933c14ce79cfef",
+    "file": "manifest.json",
+    "sha256": "f87d043b8f23b29a98d826bff25956731ae65da3df1b0ff11d256f4ecd34ffcd",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T134257Z-generator-self-test-48933c14ce79cfef",
+    "file": "manifest.partial.json",
+    "sha256": "7140ff17975db2efbc6097f2e45e6100dd38ad94b8ed083abdc5a847e8ab2471",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T134352Z-generator-self-test-3ca1a1ccf875580d",
+    "file": "manifest.json",
+    "sha256": "decf0d2a7799459e3e34da5bbadb69f5193b1719bf61bdbcca83a3bfb6fa54c6",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261001T134352Z-generator-self-test-3ca1a1ccf875580d",
+    "file": "manifest.partial.json",
+    "sha256": "c77354e421d419455bcf46c27f66f386089111509c581e417ae1495b40afc925",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T140758Z-nats-smoke-6e76867c47b455a5",
+    "file": "manifest.json",
+    "sha256": "4543ee14ceb321baf6592ba2e004e517d7f5bcd3c1884b05f3d5788534ece988",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T140758Z-nats-smoke-6e76867c47b455a5",
+    "file": "manifest.partial.json",
+    "sha256": "fd769411689d4decd8f472e4402d41f4bfaf86c26acce703fd2fb0a9f88adb78",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T140818Z-mosquitto-smoke-e28d5ab2bd6c121f",
+    "file": "manifest.json",
+    "sha256": "719cd2df5c5b9e436009cc6632f30691ab6504fb12f59bb0b18beec5fe226377",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T140818Z-mosquitto-smoke-e28d5ab2bd6c121f",
+    "file": "manifest.partial.json",
+    "sha256": "7701399066be482af1cb1327cfdb7b85eea5846fa306618a667cc8898f47d3ea",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T140837Z-rabbitmq-smoke-216536683f3c04c9",
+    "file": "manifest.json",
+    "sha256": "c98ced8191a3594202c145432b9bd7505c4d14e99c6cf226da68fb8846453247",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T140837Z-rabbitmq-smoke-216536683f3c04c9",
+    "file": "manifest.partial.json",
+    "sha256": "9e8442363c5aa9eb643b006087cfaa18d9be2e1a73ae61c444b61465a11e92df",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T140904Z-kafka-smoke-7e6fd8a051266e69",
+    "file": "manifest.json",
+    "sha256": "e03c9b5deae02857da5bb43b956f998859f01b9cd2468f1ba6c48ebbb71cf63f",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T140904Z-kafka-smoke-7e6fd8a051266e69",
+    "file": "manifest.partial.json",
+    "sha256": "031bb20710ac5abe19a09479b9ccafe3debf484465aff580ad11ed6b37cc4a76",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T141028Z-nats-pilot-density-fd22835d5a92874b",
+    "file": "manifest.json",
+    "sha256": "331530c554b0cc34f89389b42f3110be5e4b659c325a38135e175a55253c9612",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T141028Z-nats-pilot-density-fd22835d5a92874b",
+    "file": "manifest.partial.json",
+    "sha256": "ae30d31592e731f8531d63d85a6533e955b68ec504033dac0a1d9765806049c5",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T141115Z-nats-pilot-density-1c961329b2d18934",
+    "file": "manifest.json",
+    "sha256": "6fc75c459c859bad001e05793357cdc39198227f6bbc3fb24785c20713d567c4",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T141115Z-nats-pilot-density-1c961329b2d18934",
+    "file": "manifest.partial.json",
+    "sha256": "9d8c9352b2fe1993abb5ee493213cda6db3dba2abd412e77eb26038b0c614595",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T141204Z-nats-pilot-density-2f76025c9b4fe31b",
+    "file": "manifest.json",
+    "sha256": "7cabdff8b44b8942d77e228016153332917a7c24213da5c81e9906babac7a62e",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T141204Z-nats-pilot-density-2f76025c9b4fe31b",
+    "file": "manifest.partial.json",
+    "sha256": "4f90b34f3af092789efb2be1323ddfdd2ad0da60d5c3a3d52092fdece734644b",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T141301Z-nats-pilot-density-24740078b8c1f7e7",
+    "file": "manifest.json",
+    "sha256": "d4cda0339600b0aa68ebe376e5bcd6b2a9d71e86ada18b7befeae38de8892c2f",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T141301Z-nats-pilot-density-24740078b8c1f7e7",
+    "file": "manifest.partial.json",
+    "sha256": "ec33d8610a4177b5455939836c2dca461f00d7af24e32d1edc7ea1433cb074dc",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T141454Z-mosquitto-pilot-density-f74812e868867379",
+    "file": "manifest.json",
+    "sha256": "37708f3f08e31d4080785ddf0bf6c11ebba293088f5ac00085b71f08ffbef090",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T141454Z-mosquitto-pilot-density-f74812e868867379",
+    "file": "manifest.partial.json",
+    "sha256": "bd22f6a6cbc55b088c237bfad129dc952ec993b9f5150e93012efbd334a473cc",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T141541Z-mosquitto-pilot-density-21ed448fbcbff4d9",
+    "file": "manifest.json",
+    "sha256": "94d042456a314d560f48bb538b577b785f0efc91f60c099164f390bc6ca97b32",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T141541Z-mosquitto-pilot-density-21ed448fbcbff4d9",
+    "file": "manifest.partial.json",
+    "sha256": "92917cc3c46f6f35cbbf0ff03d54ffc11c7575ee3bc5ec4ddefe891273bb3dce",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T141631Z-mosquitto-pilot-density-09460d357f5d9c71",
+    "file": "manifest.json",
+    "sha256": "40b8fb6b217338fc555c56891fb961af9562658a31bb89d282c39305bd7164d5",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T141631Z-mosquitto-pilot-density-09460d357f5d9c71",
+    "file": "manifest.partial.json",
+    "sha256": "d8a9e0ccf712ac98f757f085d4099eb0a29f05fcbeb2a8524715e1fae6ec2d87",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T141728Z-mosquitto-pilot-density-610d82f0694719ee",
+    "file": "manifest.json",
+    "sha256": "655212406dac3c96322e568187701a0b13a89a221ef047908148c093552cade7",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T141728Z-mosquitto-pilot-density-610d82f0694719ee",
+    "file": "manifest.partial.json",
+    "sha256": "5af219a072439fe7e7d51d5759455f7964e2bed2bdd5fcee94024cb1e6dd46e0",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T141851Z-rabbitmq-pilot-density-4a2d7f320f5e13c1",
+    "file": "manifest.json",
+    "sha256": "8fba58c09c4f739c22b9c3ae18808de10d1e12ec28667f65e71eedacd0929c4c",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T141851Z-rabbitmq-pilot-density-4a2d7f320f5e13c1",
+    "file": "manifest.partial.json",
+    "sha256": "f4f16fa36a3fdfe0ebcd68624fae2cad6b714c53c8a381424e820cbfb0b9fd09",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T141942Z-rabbitmq-pilot-density-b5d5aff0aca1587c",
+    "file": "manifest.json",
+    "sha256": "5438ffc2c05e6960b1f734da1cfea1143fd259aff50b389ed28bba3584631fca",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T141942Z-rabbitmq-pilot-density-b5d5aff0aca1587c",
+    "file": "manifest.partial.json",
+    "sha256": "7daf12be09283f05687c471d90c40673cc3ead5bae7f9aa7d029bd27d893a4b2",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T142034Z-rabbitmq-pilot-density-b7e55c7b91a8892b",
+    "file": "manifest.json",
+    "sha256": "9ac6ba3dcb17a00438382d3ded18b41c11147d3d74cd58d6a6e71ce10013715e",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T142034Z-rabbitmq-pilot-density-b7e55c7b91a8892b",
+    "file": "manifest.partial.json",
+    "sha256": "6880391078e68d8809078996336c51e0ee206baad5942c1921af0399a217cac2",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T142136Z-rabbitmq-pilot-density-ca27167432f3e486",
+    "file": "manifest.json",
+    "sha256": "13a8e47bd18769b43b0af6099c766fb811a6d89b825dc2c3cd89ac0072b130de",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T142136Z-rabbitmq-pilot-density-ca27167432f3e486",
+    "file": "manifest.partial.json",
+    "sha256": "161ecf09fdd172482e830cb34cf602c761a03a423c28bff075df5d48f9dd7c18",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T142300Z-kafka-pilot-density-1a1de3972c108c04",
+    "file": "manifest.json",
+    "sha256": "69146745f8ebda8698e40bc73b8e35f294b339c430cbbfbe3fcc7856ae222958",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T142300Z-kafka-pilot-density-1a1de3972c108c04",
+    "file": "manifest.partial.json",
+    "sha256": "103eee11a3bed50f0b2d3c3be25576632b1998af471d3a480b9e8d057335e13c",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T142353Z-kafka-pilot-density-472cc64461c4dd26",
+    "file": "manifest.json",
+    "sha256": "84a50ebe8022ecb9a4f5a35f8de6e66a8e75ac9d344b68da6dc49a30cdd1d2a1",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T142353Z-kafka-pilot-density-472cc64461c4dd26",
+    "file": "manifest.partial.json",
+    "sha256": "75c927714c190d56cbe32fe80daa881db22b65005357ea6c74b350e4d2f91180",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T142447Z-kafka-pilot-density-04abe9daac69facd",
+    "file": "manifest.json",
+    "sha256": "6aea2cccfacd00a9dc09d0dc8277ae8784aef68c19b0eb708aec762286d12755",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T142447Z-kafka-pilot-density-04abe9daac69facd",
+    "file": "manifest.partial.json",
+    "sha256": "1a702459dcae5064775bb3e42b91d7993d63d4894877af879865c3355fb080f3",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T142551Z-kafka-pilot-density-21ec72b3cbee172b",
+    "file": "manifest.json",
+    "sha256": "da1c473dbb6f4ebe8004d3183f3df50ba29d01e966019cac9fb6694f9f2554f6",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T142551Z-kafka-pilot-density-21ec72b3cbee172b",
+    "file": "manifest.partial.json",
+    "sha256": "4fe1da79dfb6aa1d2b91f6f3645ae47d3b949cea9302948fc2adaad216319a39",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T142900Z-kafka-pilot-density-threshold-f03d2e81855d9706",
+    "file": "manifest.json",
+    "sha256": "100d105a3917155b9376a47189a1eee910da0e9ee38f5535a8dc1b3773d258d7",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T142900Z-kafka-pilot-density-threshold-f03d2e81855d9706",
+    "file": "manifest.partial.json",
+    "sha256": "5ad38848c93eea0bb888f44406fb80d6bec72e6e6e17b97a39fe1b3bb215772e",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T143103Z-kafka-pilot-density-threshold-113577fcc234c788",
+    "file": "manifest.json",
+    "sha256": "7157f957213efaa88988c7d3ac825d5885b9050950ed35a479a5e6453166734c",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T143103Z-kafka-pilot-density-threshold-113577fcc234c788",
+    "file": "manifest.partial.json",
+    "sha256": "011d2a548a9476a445b34c24246390fbac1e9ffe69ae50c0f62f4d7f46f4eaba",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T143257Z-kafka-pilot-density-10k-repeat-e04d27de6db9023c",
+    "file": "manifest.json",
+    "sha256": "18e3863f28101fa6f1eb79f093c94839cf80fc0051a42b1fb77cb1130a763346",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T143257Z-kafka-pilot-density-10k-repeat-e04d27de6db9023c",
+    "file": "manifest.partial.json",
+    "sha256": "8fdcd1230bb9ea02f0fd8164b7e3f6ffac50272e415d3115136ec6b79d019c49",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T143444Z-nats-pilot-message-rate-e936b9e2efb7b617",
+    "file": "manifest.json",
+    "sha256": "0ad5ff41f0f9df01657c87236b0e5ba899451c28cee7ebf8ed3e5d9a1d2dcff5",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T143444Z-nats-pilot-message-rate-e936b9e2efb7b617",
+    "file": "manifest.partial.json",
+    "sha256": "42b260dc7a65d2c22fd0aae269f051e17c71beed07806146f16660ff01bf32fb",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T143516Z-nats-pilot-message-rate-3304ccccf8f2c47a",
+    "file": "manifest.json",
+    "sha256": "00d48b03c7f3aa59aef79570572e5a647cb7cdeb8d7a28e578c6238a8bdb2f1c",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T143516Z-nats-pilot-message-rate-3304ccccf8f2c47a",
+    "file": "manifest.partial.json",
+    "sha256": "42cb63552484aa0b3aab8aeb05d7bf1a09ea2e1a6383399df22f7f7a538d1e37",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T143548Z-nats-pilot-message-rate-878dce849921c855",
+    "file": "manifest.json",
+    "sha256": "611f3648eb6e031af26d48d702e51d821860ae70ad5108399afdd180e988a98b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T143548Z-nats-pilot-message-rate-878dce849921c855",
+    "file": "manifest.partial.json",
+    "sha256": "d086bf76980f3a0bda0b87bb3dcbe78df6f6272159323d9ef700ae10fbb7ba4c",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T143620Z-nats-pilot-message-rate-66c03418f77875e1",
+    "file": "manifest.json",
+    "sha256": "ad04fc23d680770964a9af00d0c849780556a521b52f32dd673ba8705be89b39",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T143620Z-nats-pilot-message-rate-66c03418f77875e1",
+    "file": "manifest.partial.json",
+    "sha256": "03508aef6b2483efa12fa1f66d1c875a63e4318d0f632f395cdd5265ea7723a9",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T143813Z-mosquitto-pilot-message-rate-common-bbad07bdf01b00a0",
+    "file": "manifest.json",
+    "sha256": "fd1f09c60dc8459e4b28cd0d67f9fdf1b6dc931bb9042a841b1df1eb513c1c83",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T143813Z-mosquitto-pilot-message-rate-common-bbad07bdf01b00a0",
+    "file": "manifest.partial.json",
+    "sha256": "1656f258fe45872312e5e51a82df077a292eaf61d7e2c3ce42c1f2617a2b48b3",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T143846Z-mosquitto-pilot-message-rate-common-7afd324b3469f407",
+    "file": "manifest.json",
+    "sha256": "0ddaf1eadc91398bdb55ac98832e4701e788ddb85ca6ff164fb4afb9425ee436",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T143846Z-mosquitto-pilot-message-rate-common-7afd324b3469f407",
+    "file": "manifest.partial.json",
+    "sha256": "ceb7f45f84cb3edb4dc753e7216065a9d2bf34ad3f943fc80c8e8342d5699e43",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T143918Z-mosquitto-pilot-message-rate-common-b11c15ad440c1b85",
+    "file": "manifest.json",
+    "sha256": "8d29dfcc0527bf9472ed2dd4a29a8a41abff7f8d7fea684e8d6260a03d6b7267",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T143918Z-mosquitto-pilot-message-rate-common-b11c15ad440c1b85",
+    "file": "manifest.partial.json",
+    "sha256": "7c04c062e0e127bf767ef44b775f9b1abbcb913b793e858e5750e627e2b44a61",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T143950Z-rabbitmq-pilot-message-rate-common-00c492100fdf8a7e",
+    "file": "manifest.json",
+    "sha256": "5b96b25952d892e46937d3fa35c2a87bd343815feaf7a2d61917c774e98af541",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T143950Z-rabbitmq-pilot-message-rate-common-00c492100fdf8a7e",
+    "file": "manifest.partial.json",
+    "sha256": "a42407404544eb8ce232468c554e20479d67e7f03a8cda473bfb85f316b6ee38",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T143958Z-nats-smoke-5825795ad12e711b",
+    "file": "manifest.json",
+    "sha256": "fae76ac352fb8054d49015d0c454887e0a67c6139c38283a0754406c66c37514",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T143958Z-nats-smoke-5825795ad12e711b",
+    "file": "manifest.partial.json",
+    "sha256": "96259bd530e9e40c98bbeae15883c324b7c13be2564c06ff64db1668e03f4e16",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144013Z-mosquitto-smoke-076050cf2d2c74c8",
+    "file": "manifest.json",
+    "sha256": "1b1ee34d456b7dd08114c9632eeffc696dc92bca7c39736aef8f712d29979796",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144013Z-mosquitto-smoke-076050cf2d2c74c8",
+    "file": "manifest.partial.json",
+    "sha256": "b9aecacb7d26e7f6516387702c8a81ba9d65df38c49786bf6f042d199964bfad",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144025Z-rabbitmq-pilot-message-rate-common-26e925c6ee3abfdf",
+    "file": "manifest.json",
+    "sha256": "daf6cd645e66096446a6372d8170c112b52d85f576eaf1b2959a359f8f15d14a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144025Z-rabbitmq-pilot-message-rate-common-26e925c6ee3abfdf",
+    "file": "manifest.partial.json",
+    "sha256": "26659c04eb10ce86db8cf472d836989a63e1ca49eb6e280fb018363de6b54636",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144028Z-kafka-smoke-ceb98149127008b6",
+    "file": "manifest.json",
+    "sha256": "cb9281a27227bfdf574d2f00af4a962c0a26c4085ece90eaaf775b46096c9cc9",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144028Z-kafka-smoke-ceb98149127008b6",
+    "file": "manifest.partial.json",
+    "sha256": "37e30bfde436e9d69d324227295228e7faafd24db34090881d0a59e904be8469",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144028Z-rabbitmq-smoke-fe6ca3d7dfebcfb2",
+    "file": "manifest.json",
+    "sha256": "f61ab0fe3cfb37e97f6b08b3b24a8030fd0b7f10b816f25727632de2fa3450cc",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261001T144028Z-rabbitmq-smoke-fe6ca3d7dfebcfb2",
+    "file": "manifest.partial.json",
+    "sha256": "27ec09a7f277c482851d5d4fd30a06c6b506ededceb8c8b460134632f086a811",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144102Z-rabbitmq-pilot-message-rate-common-730d0e4412c7065d",
+    "file": "manifest.json",
+    "sha256": "0d0da72ff7278fd89ebbd62ea18eca10a3a6676b52cd4a5af1398ada48c6cc5e",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144102Z-rabbitmq-pilot-message-rate-common-730d0e4412c7065d",
+    "file": "manifest.partial.json",
+    "sha256": "b8261b3bd9ecb3bd5477825c866b4980bd9024049948ccd0b6ff34d42b5f689e",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144140Z-kafka-pilot-message-rate-common-0e091e60497f005d",
+    "file": "manifest.json",
+    "sha256": "1e1fec5e6cc438c10ff3ba1ad3974417f41965535e960af2643c5a071ed81fc6",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144140Z-kafka-pilot-message-rate-common-0e091e60497f005d",
+    "file": "manifest.partial.json",
+    "sha256": "7faa2366248947855a67c9f5d4ddced001e286dbff03fc23729092ef2c51dd6a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144218Z-kafka-pilot-message-rate-common-7cc9121a80bb66f3",
+    "file": "manifest.json",
+    "sha256": "b570f4aee3b39625e677e217e11a9aa34746d46c5d4bf95c313477994c829e15",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144218Z-kafka-pilot-message-rate-common-7cc9121a80bb66f3",
+    "file": "manifest.partial.json",
+    "sha256": "be9f45cbbd74160a9340b7c33470892ca17eeeae3adeb292b6eb3f40ec35f0ae",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144256Z-kafka-pilot-message-rate-common-53db1e5b63303c1c",
+    "file": "manifest.json",
+    "sha256": "152ceace36d67f7bd457951e2434cfbbdec6a55aef7f5324c3cb255f95972117",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144256Z-kafka-pilot-message-rate-common-53db1e5b63303c1c",
+    "file": "manifest.partial.json",
+    "sha256": "5977edebd0ccd2814c9651bcd85deb3089037521f9778b865551cf4b08250dc7",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144354Z-nats-smoke-f8421bc20eb7c417",
+    "file": "manifest.json",
+    "sha256": "5a6041cb0d18aeb58fc04f46c9bf394085630642dd3e9d99cf156329a9d644a1",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144354Z-nats-smoke-f8421bc20eb7c417",
+    "file": "manifest.partial.json",
+    "sha256": "ee80a48237ed7091e7dfd970fdd2958e3b3531c618fcb0602ada6f61b37dbc64",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144409Z-mosquitto-smoke-7b9aa41dd6708535",
+    "file": "manifest.json",
+    "sha256": "932862823fe6786493ddfb93f75c8f0dd56792e03e084834c4a9874f839b007e",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144409Z-mosquitto-smoke-7b9aa41dd6708535",
+    "file": "manifest.partial.json",
+    "sha256": "91b59fb53441c8bd71974c453f6dd1ae52a776e35723010358cc164aea06377b",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144424Z-rabbitmq-smoke-9178e9b8aae0df69",
+    "file": "manifest.json",
+    "sha256": "a426022c0c3ea4e6ac9b91dd02770436e95d7b11f1bc696edb6b0cc51240b887",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144424Z-rabbitmq-smoke-9178e9b8aae0df69",
+    "file": "manifest.partial.json",
+    "sha256": "b6bf6bc025e6e1dc5cefc38808c45cf1bb5fc38c2079d14e2c373d4e9afd90c5",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144443Z-kafka-smoke-e36b2ea661fb50f1",
+    "file": "manifest.json",
+    "sha256": "3d99eb015be85e593642ccae13326a6002f62a093f6eb330f7ae4cd128d14405",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144443Z-kafka-smoke-e36b2ea661fb50f1",
+    "file": "manifest.partial.json",
+    "sha256": "19d0e7bdc7a28f16e00bf5f6dffd35f1fd2f0f1164d331b856206a014bebae67",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144546Z-nats-pilot-message-rate-common-add4e8b6fb7be936",
+    "file": "manifest.json",
+    "sha256": "4154f14196370ab36506deb8342180e757583d82472a0907cd4526968f085c17",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144546Z-nats-pilot-message-rate-common-add4e8b6fb7be936",
+    "file": "manifest.partial.json",
+    "sha256": "b1db8fe8d79e7eb58308c7640fca9213758981896e10152072ece99f22e5b359",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144618Z-nats-pilot-message-rate-common-d32f2ecd7e024500",
+    "file": "manifest.json",
+    "sha256": "4d79974614079fb3c0f6c23439d5b8c1e441840453ece13e4764491aa0015564",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144618Z-nats-pilot-message-rate-common-d32f2ecd7e024500",
+    "file": "manifest.partial.json",
+    "sha256": "76fa8bb1b26d9667a5b98f5292f8809c76a323163d23804707342fdae1781934",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144650Z-nats-pilot-message-rate-common-4cdc4120906feb4e",
+    "file": "manifest.json",
+    "sha256": "4764fd4d5a99f07bfb4a44b28b2f250d188a2c6646fede5c8f8610e34a432fc7",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144650Z-nats-pilot-message-rate-common-4cdc4120906feb4e",
+    "file": "manifest.partial.json",
+    "sha256": "15b45d624c75a53a43f89f016cbea956431bb26216b37a7ff1e02c21f68be137",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144744Z-nats-pilot-connection-density-common-772b8a298437c14d",
+    "file": "manifest.json",
+    "sha256": "335fc8830d2be447930eca455a290a6a581e03edce2218801c7145b649f8b5a5",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144744Z-nats-pilot-connection-density-common-772b8a298437c14d",
+    "file": "manifest.partial.json",
+    "sha256": "1d24e1d98d7ce8454d32e0f02ccb2e72a9fc29677a3c254cfd97ba05505fa7f0",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144817Z-nats-pilot-connection-density-common-4a127b946b4e25b1",
+    "file": "manifest.json",
+    "sha256": "ad3f2283ca96b017b1768d244c1877496b831b335adb690a350e533a9336e250",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144817Z-nats-pilot-connection-density-common-4a127b946b4e25b1",
+    "file": "manifest.partial.json",
+    "sha256": "49ebe08bc41f85cfc2f5490b2894d6757fcd360365b8f0dfd62dcc4957372191",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144851Z-nats-pilot-connection-density-common-911884747774e074",
+    "file": "manifest.json",
+    "sha256": "29f754da40408532561dcb64a435f7b25db8e39cb839de31a45eef594c80fd10",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144851Z-nats-pilot-connection-density-common-911884747774e074",
+    "file": "manifest.partial.json",
+    "sha256": "63e56b37a0b42a298fce3eccc85bf013ddcbebf2193806172b8f5147e8db2836",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T144933Z-nats-pilot-connection-density-common-adac656d4378c378",
+    "file": "manifest.json",
+    "sha256": "dfb48d24d47af9f104d8f16fc39f07053154a7dac1a637b736f7ff8a3be40598",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T144933Z-nats-pilot-connection-density-common-adac656d4378c378",
+    "file": "manifest.partial.json",
+    "sha256": "77e4344d149ff12d9a49af532d8de0de36058988d93f7a99587922d1eef9b535",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T145027Z-mosquitto-pilot-connection-density-common-87783958a7924e1f",
+    "file": "manifest.json",
+    "sha256": "6f898ba4d64ff0ad820f978494569f2fbe96a8e5c142901bb9c8ce00caf82bb8",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T145027Z-mosquitto-pilot-connection-density-common-87783958a7924e1f",
+    "file": "manifest.partial.json",
+    "sha256": "176d140a91fcdb8797771861eac7d27a6d34d9d8e85351bd557a3ad692e7e5b9",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T145059Z-mosquitto-pilot-connection-density-common-ad1e1832f3edfb4d",
+    "file": "manifest.json",
+    "sha256": "375485b2785536268aeb96d8ebee7bde19e97a8757316abe7d287fc3faf66659",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T145059Z-mosquitto-pilot-connection-density-common-ad1e1832f3edfb4d",
+    "file": "manifest.partial.json",
+    "sha256": "569567e745664df4fde40f45293e6974a60d00f8c4dad13efe7950517a475e49",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T145133Z-mosquitto-pilot-connection-density-common-b562a426af6cbd12",
+    "file": "manifest.json",
+    "sha256": "40aecfc2cd77bafdc99ccce65949fc55959e6443c4ac446f85d2cfdb02fa2c3c",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T145133Z-mosquitto-pilot-connection-density-common-b562a426af6cbd12",
+    "file": "manifest.partial.json",
+    "sha256": "3683a6ce1d6ecb39f23202d296062e8db1a3bf1457afe56cfef97f6fe9a882c2",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T145216Z-mosquitto-pilot-connection-density-common-d09f69b66eff5345",
+    "file": "manifest.json",
+    "sha256": "2ede711faf9887d10d02e6cd0d897cc6a503b25530ade8281e1e0fb01b1244aa",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T145216Z-mosquitto-pilot-connection-density-common-d09f69b66eff5345",
+    "file": "manifest.partial.json",
+    "sha256": "0eb7fb335001755c49fb160103381ef26a6c0e4b8f62f45da1f34b3d47f993f7",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T145309Z-rabbitmq-pilot-connection-density-common-2cb3649e9445b956",
+    "file": "manifest.json",
+    "sha256": "11ebb714f74ec46573efa5057704f801e5c4c13f90fb047f304c1af74be39276",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T145309Z-rabbitmq-pilot-connection-density-common-2cb3649e9445b956",
+    "file": "manifest.partial.json",
+    "sha256": "00b4f93ad865ca356bb9bda7f2b9ef157e8e9d9d9db35c0869b7b6a170f7f5c1",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T145345Z-rabbitmq-pilot-connection-density-common-8f360dddc94f423c",
+    "file": "manifest.json",
+    "sha256": "489f049e70ec09be3904d5340ec0c96620a2034d9687f2cb9dff943d01ee819d",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T145345Z-rabbitmq-pilot-connection-density-common-8f360dddc94f423c",
+    "file": "manifest.partial.json",
+    "sha256": "287d064761e22a491c5b50516fda9a498e44f2730b81ed8630ceb85618f8534f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T145422Z-rabbitmq-pilot-connection-density-common-b0ba2be931729895",
+    "file": "manifest.json",
+    "sha256": "a8f27b60d0766eac5de8d18154583f9935034db7e5ef0d4633f30fd2dc0c7774",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T145422Z-rabbitmq-pilot-connection-density-common-b0ba2be931729895",
+    "file": "manifest.partial.json",
+    "sha256": "83d818a9b978ff4539f8947cc887fe76aa1f3a0c03d720de23263ac0c363aefd",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T145509Z-rabbitmq-pilot-connection-density-common-532b31e87502200c",
+    "file": "manifest.json",
+    "sha256": "da5d763b3642a98cbcbd70e435c03b3fdcd876b8e1894cc71058e38f7ec3d664",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T145509Z-rabbitmq-pilot-connection-density-common-532b31e87502200c",
+    "file": "manifest.partial.json",
+    "sha256": "84ed90fb70d4a476983f16b9e9049d1b63ada54c9a4c269b3a729002ebe380a0",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T145608Z-kafka-pilot-connection-density-common-73ce6f8e51fe9959",
+    "file": "manifest.json",
+    "sha256": "df09adb715414b0780ffa3cb10bf494b7f2a464562661a273bd9c2c347d03792",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T145608Z-kafka-pilot-connection-density-common-73ce6f8e51fe9959",
+    "file": "manifest.partial.json",
+    "sha256": "a12daeadcdec962ae840ddbfbc2ffabbc21476abbda35fd1878890a76348dd01",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T145646Z-kafka-pilot-connection-density-common-fa186b20c40816d7",
+    "file": "manifest.json",
+    "sha256": "4a920b3e06ce76074a7102d157247998b39c4dff26558d637d6ed9fb47ec0d53",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T145646Z-kafka-pilot-connection-density-common-fa186b20c40816d7",
+    "file": "manifest.partial.json",
+    "sha256": "47467d7f8fddb163bfb3ada08e73f59e41b7df387d3a82c680a9ca2e08c421fe",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T145726Z-kafka-pilot-connection-density-common-53541b719f41245f",
+    "file": "manifest.json",
+    "sha256": "e25098fac708df0a7e8854af3672c4c36c5b1718c4975b8a481f8a9961b3d9a0",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T145726Z-kafka-pilot-connection-density-common-53541b719f41245f",
+    "file": "manifest.partial.json",
+    "sha256": "1fac667db0bfb16c31ad9430a18efa7f6c3ef8b6f4047aae1686ba09f9d9f82f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T145814Z-kafka-pilot-connection-density-common-64fa17b0869dafab",
+    "file": "manifest.json",
+    "sha256": "a55b7dc01545de95d06330c5e6784b1317875df78a95c72b1d905019377a37de",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T145814Z-kafka-pilot-connection-density-common-64fa17b0869dafab",
+    "file": "manifest.partial.json",
+    "sha256": "3e1d0d2f9b5969e76b995cf6c59aef393ce889e806f21f648824ea5e19f2f87c",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T150118Z-nats-pilot-connection-density-25000-da22bf1d4c69ce36",
+    "file": "manifest.json",
+    "sha256": "5f54ca22e7a35c999e628cdd1848454faab1fb8007b97353246ecbde0ed152f0",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T150118Z-nats-pilot-connection-density-25000-da22bf1d4c69ce36",
+    "file": "manifest.partial.json",
+    "sha256": "e23935470c8bf28037d721723673f50265d4252be551322dfbe72f9af5c53730",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T150246Z-mosquitto-pilot-connection-density-25000-9fd2c4697b8702a8",
+    "file": "manifest.json",
+    "sha256": "82969d0055bfe06aa5e50ca451738f687b02fddf431f698966ad35e527888944",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T150246Z-mosquitto-pilot-connection-density-25000-9fd2c4697b8702a8",
+    "file": "manifest.partial.json",
+    "sha256": "b236aa1fbd91fc6680b5417da60a40e3c966fb9e9460111dc605912c3dbc29fa",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T150414Z-rabbitmq-pilot-connection-density-25000-457ae04c8f922040",
+    "file": "manifest.json",
+    "sha256": "b694d96a183b2393d67fab212d55531a40256e67a7d82576c2bfd44af350bc6b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T150414Z-rabbitmq-pilot-connection-density-25000-457ae04c8f922040",
+    "file": "manifest.partial.json",
+    "sha256": "92f5a6f93e24222b8c6a5c8b04289406218c212b14ba4bc08618523132645d8b",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T150914Z-kafka-pilot-kafka-density-boundary-9071e1b39237a652",
+    "file": "manifest.json",
+    "sha256": "5942593bf33e52c38d037e2009b4c72640fcc4d88b1b1ca365221f4405b51355",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T150914Z-kafka-pilot-kafka-density-boundary-9071e1b39237a652",
+    "file": "manifest.partial.json",
+    "sha256": "59e6980a593bec23ed842555cf8ba51871a62d0cfd9f2906e746bbe20b32c542",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T151005Z-kafka-pilot-kafka-density-boundary-3d1d2be7b3fb6fcf",
+    "file": "manifest.json",
+    "sha256": "d7d8314c0404256988547ee8f6ccfca45ce7b26c45da1d1c4000f45f3d11e2fe",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T151005Z-kafka-pilot-kafka-density-boundary-3d1d2be7b3fb6fcf",
+    "file": "manifest.partial.json",
+    "sha256": "0dc59c8cb993116be0c6a19c996b52ce55fc825afbba5bfeda53246a2ecf3618",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T151103Z-kafka-pilot-kafka-density-boundary-fa73b922961e697c",
+    "file": "manifest.json",
+    "sha256": "434f93e470c5df4fc96c02812b7876e345e8e36fdc37912ca3d5d8117708ee29",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T151103Z-kafka-pilot-kafka-density-boundary-fa73b922961e697c",
+    "file": "manifest.partial.json",
+    "sha256": "ca688bc212bbb71cf8c1346b0940e75d80569cb4ef57675efde9b79b684bdb28",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T151205Z-kafka-pilot-kafka-density-boundary-b27032583d1212b9",
+    "file": "manifest.json",
+    "sha256": "6a6a9fc8841443d7bf532b18325d938ca00590d612f819c875ce049891d0b2e0",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261001T151205Z-kafka-pilot-kafka-density-boundary-b27032583d1212b9",
+    "file": "manifest.partial.json",
+    "sha256": "d448474b04f42109ac94c556909492976b3d40eed03e28e1e874827a574e8b8b",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T163508Z-nats-smoke-9c4623c147a43ed0",
+    "file": "manifest.json",
+    "sha256": "2ff5afcae9444d409c2afe2102a6b329ee7a08ebfee0d3d00a239b8c40d1161a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T163508Z-nats-smoke-9c4623c147a43ed0",
+    "file": "manifest.partial.json",
+    "sha256": "393c8a8b685f07208b332c2e5231556504915a5d591302b60e0b61b5156c0813",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T163523Z-mosquitto-smoke-fda2c5ffcbace010",
+    "file": "manifest.json",
+    "sha256": "7475c8bc12faf7494662dbf2dd7311f0966d9000a726aaec49eb55b7e8847a0f",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T163523Z-mosquitto-smoke-fda2c5ffcbace010",
+    "file": "manifest.partial.json",
+    "sha256": "add53278735da85bd166c6dc25020996e5afae874a4492d3da5d09fe08573271",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T163539Z-rabbitmq-smoke-2cb650bb6fbf8a79",
+    "file": "manifest.json",
+    "sha256": "3a720617bdaea58a59e0428e2a04ceb080c59917acd5e51ff2955b555f461e80",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T163539Z-rabbitmq-smoke-2cb650bb6fbf8a79",
+    "file": "manifest.partial.json",
+    "sha256": "bac831a88a851132f62cfff6df19ca48e6a5b3365a685dde47e6b00f71ffb30f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T163558Z-kafka-smoke-642f21aca18430df",
+    "file": "manifest.json",
+    "sha256": "392a1da6ae8030f5e720a414ac5bce8926b08db75ad50d2be919016bab7f1796",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T163558Z-kafka-smoke-642f21aca18430df",
+    "file": "manifest.partial.json",
+    "sha256": "4c5310d3131ad84c99e60e4acb35d9b4b2e73d45629e6c627b2112c1568fe46b",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T163727Z-nats-connection_density-ab817f4b2082ecce",
+    "file": "manifest.json",
+    "sha256": "6fe4790f4ce6a48e375ffd143ac157e9c6009ec996bff9d14baeb1f5114e50ee",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T163727Z-nats-connection_density-ab817f4b2082ecce",
+    "file": "manifest.partial.json",
+    "sha256": "f6e0a61f359c800b6b3004e3aeba47260141b013394ce1c9107bc253bde0cdaa",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T164010Z-nats-connection_density-7a127138c998dce5",
+    "file": "manifest.json",
+    "sha256": "8bc3d83a43b57dec0ad5494049972a4013477664a3317960387c9a94a1e4a808",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T164010Z-nats-connection_density-7a127138c998dce5",
+    "file": "manifest.partial.json",
+    "sha256": "5458c625744b59607aab16b255d5b5ff1cab021a34676e514df08f72da8163b2",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T164252Z-nats-connection_density-233e9977c9ce2064",
+    "file": "manifest.json",
+    "sha256": "a1da0952c361928f59c75282a0cb45a6a752cde67c48446824dfd591d2aece60",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T164252Z-nats-connection_density-233e9977c9ce2064",
+    "file": "manifest.partial.json",
+    "sha256": "e1cdd5dc142275b74982d135fbe5e68766bdd89d583422da6fff006872b186e2",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T164535Z-nats-connection_density-4531d96f3fb9f2fe",
+    "file": "manifest.json",
+    "sha256": "56c2af6859ec4bd07b87628c649c38a05a693bb3640753e1b0663801526d702c",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T164535Z-nats-connection_density-4531d96f3fb9f2fe",
+    "file": "manifest.partial.json",
+    "sha256": "2a0537aeb2c05f7f3601f7c06cf6f42d238404262ca743d76c429b3f7542c5ec",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T164819Z-nats-connection_density-84df758c5814103d",
+    "file": "manifest.json",
+    "sha256": "b72a9a075c6a4c80aa097cab998016df20492786070e9dc83268c46a00eee84a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T164819Z-nats-connection_density-84df758c5814103d",
+    "file": "manifest.partial.json",
+    "sha256": "56fdced5c8189fac0b7ef3445116a1017e6c7f5dcb8d7a3c9dbc725dd5012026",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T165103Z-nats-connection_density-01e0a8c1b846a80a",
+    "file": "manifest.json",
+    "sha256": "a13bbefcf9de808bdedfea51cfbe1895a6b2bcf055e2229570c0cdb596ef0f92",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T165103Z-nats-connection_density-01e0a8c1b846a80a",
+    "file": "manifest.partial.json",
+    "sha256": "22306e5e931accf5fb3ef7d5938b492f5eb4320f84f772900b1f4341ce788912",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T165347Z-nats-connection_density-06828e5d305e37ac",
+    "file": "manifest.json",
+    "sha256": "eb7b5b1c05905d4fbaf5c5ad49ff9c906276cfbb8fead5cc8dcfa6b0117d98db",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T165347Z-nats-connection_density-06828e5d305e37ac",
+    "file": "manifest.partial.json",
+    "sha256": "24d0fb462f8d16be6a7d7e46503df492344c24b1de2f40a596e2d49be3d7cf9d",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T165640Z-nats-connection_density-5a474deeac44377c",
+    "file": "manifest.json",
+    "sha256": "3bbe9ceb332abbaa78b99bb872a7dcad5a93581a80bf2e8ea222f73602bb2f2a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T165640Z-nats-connection_density-5a474deeac44377c",
+    "file": "manifest.partial.json",
+    "sha256": "add3f3805dad384477fb7f30dd0ef47556063ba50dafa341e9cee1b7f6d66d38",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T165933Z-nats-connection_density-5dcf85f751ec06eb",
+    "file": "manifest.json",
+    "sha256": "54d5423914f6b3fd7c3600f7f94d5289da5ba987e46b6c6c546a469fefeb8077",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T165933Z-nats-connection_density-5dcf85f751ec06eb",
+    "file": "manifest.partial.json",
+    "sha256": "353b93cde09357b576ed72d2c151bdaeec72741a5e401098a201973b39181e13",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T170225Z-nats-connection_density-73ce51e77844a278",
+    "file": "manifest.json",
+    "sha256": "b795797ad1d83be06b5d6d9352b1e22dcc57e02d671f47cc23bf7834c1910c9f",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T170225Z-nats-connection_density-73ce51e77844a278",
+    "file": "manifest.partial.json",
+    "sha256": "a4675310507307e2f3c397c8c577c8646eeb3b832bc251f97771bea5dd36aaef",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T170529Z-nats-connection_density-3967b81152eeafde",
+    "file": "manifest.json",
+    "sha256": "c6f1a0d7e6a34f4654961d6995cf07401bf990c20985c6cd974691fe14562252",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T170529Z-nats-connection_density-3967b81152eeafde",
+    "file": "manifest.partial.json",
+    "sha256": "ec6eb90bec30565d456dfe59c8226e7566912c555b5940f4a9f4bc94f1bdc11d",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T170833Z-nats-connection_density-7ab2577e88d1e10d",
+    "file": "manifest.json",
+    "sha256": "093ce6af3303199841ffcefadec2cadec49fa3d59eab6c5fefea433cab8ad70a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T170833Z-nats-connection_density-7ab2577e88d1e10d",
+    "file": "manifest.partial.json",
+    "sha256": "07571410385890744a2942f61dd9f6e82f46d0ecf3e8aadde67a703714c5c391",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T171137Z-nats-connection_density-6506201492a01178",
+    "file": "manifest.json",
+    "sha256": "91bbe080086647501fb92935846e7d91ab632932b8fe9be7202ab2c851dbf568",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261001T171137Z-nats-connection_density-6506201492a01178",
+    "file": "manifest.partial.json",
+    "sha256": "081f5c9184f1f3a4c3b3965735f3822c0a35daabba464f80318c04d4f9eb8f36",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T171222Z-nats-connection_density-0cf931a9b616991f",
+    "file": "manifest.json",
+    "sha256": "0e2e045a73b19766fea3840601c43ba6138a99a684b4258c8a9f29f2c5b79674",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261001T171222Z-nats-connection_density-0cf931a9b616991f",
+    "file": "manifest.partial.json",
+    "sha256": "517b78b1be580696a618670a51e6d6281afa83f5fe00ae7c3fa6c7789097ca3b",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T171224Z-nats-connection_density-6c68ce082231e644",
+    "file": "manifest.json",
+    "sha256": "9fecde29c3340a56118c1ff3ad71b11c19db95ead10b2a0a81b543d3500cc3ac",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261001T171224Z-nats-connection_density-6c68ce082231e644",
+    "file": "manifest.partial.json",
+    "sha256": "19b19b493a35f2e4b88b125b9b0c35a1fd89311514edd8948d9bcb79756a64b9",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T171227Z-nats-connection_density-c9ca0075f4158769",
+    "file": "manifest.json",
+    "sha256": "99264c9893300447d43fd5a682abe96862caff8a12d5f15e25d995cc3fc3813f",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261001T171227Z-nats-connection_density-c9ca0075f4158769",
+    "file": "manifest.partial.json",
+    "sha256": "77efe1e9b91168cde540242a5e1eae8862e467b2092010c9097ddc4a57994084",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T171229Z-nats-connection_density-947e9a57009dc142",
+    "file": "manifest.json",
+    "sha256": "11ed1dfebefc3e3b0bf3adcb9758cd03f86ef24193e56b814eb612a21bbe5e32",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261001T171229Z-nats-connection_density-947e9a57009dc142",
+    "file": "manifest.partial.json",
+    "sha256": "3c8493bd49c199509eac23a25a5082c6e015a00f8f4f8ffc7b5a0723ac3b56f0",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T171231Z-nats-connection_density-1d99cde4c0021fcd",
+    "file": "manifest.json",
+    "sha256": "d715ec74833d39c62b80acb8027d35f4ffb25158c502444e5f7d0d77952a2691",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261001T171231Z-nats-connection_density-1d99cde4c0021fcd",
+    "file": "manifest.partial.json",
+    "sha256": "45add1169baff7eca730424834b699a518b337cc6ff7120e4fbfe9e8b88c5a2c",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T181725Z-nats-connection_density-63f2936a8ea6ac77",
+    "file": "manifest.json",
+    "sha256": "33c254fc7177e81f7a5ed4d499662d7e92ab55a62e76e2638d7d938f2b1655c5",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T181725Z-nats-connection_density-63f2936a8ea6ac77",
+    "file": "manifest.partial.json",
+    "sha256": "667d55f29706d23a97cf16728f0b4e8fd8181d77f9844a0e3d2135783c075f76",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T182916Z-nats-connection_density-ce5aee757d78ab90",
+    "file": "manifest.json",
+    "sha256": "55f114d4375dceb115846c242a5d86111a726d98c1dcc805155aa398ebc979af",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T182916Z-nats-connection_density-ce5aee757d78ab90",
+    "file": "manifest.partial.json",
+    "sha256": "97e70faba12acc219b9045a9b4b7739fdf39cfdb61873091424f79f3afccc750",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T183405Z-nats-connection_density-539b5bff01cce403",
+    "file": "manifest.json",
+    "sha256": "a726014e89e34b7d633f41fd0511b788d7e30a4334e1d76eeaf3612badcb3b89",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T183405Z-nats-connection_density-539b5bff01cce403",
+    "file": "manifest.partial.json",
+    "sha256": "4803cbaf3c50e949f1952a09e745682b54a872597f29b87791c434a012e1c41c",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T184738Z-mosquitto-preliminary_density-ed4a92b1856b9229",
+    "file": "manifest.json",
+    "sha256": "7df27d4bb44fbb2a242bee04d3f9606df64c6018ec66482b9e5a1aaeb74bd60b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T184738Z-mosquitto-preliminary_density-ed4a92b1856b9229",
+    "file": "manifest.partial.json",
+    "sha256": "1e8eb9e6a9a8299352a2c6af46445fbb2aaa5226df0fadca968643d92389dd91",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T185020Z-mosquitto-preliminary_density-93bba929160c875e",
+    "file": "manifest.json",
+    "sha256": "7f8afbfe46a826cee45bf95ca99bb46959b82cf0eb6d85d69f5d57556f1e290d",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T185020Z-mosquitto-preliminary_density-93bba929160c875e",
+    "file": "manifest.partial.json",
+    "sha256": "b60ecddc926f1c7fc3a00ecc2aed191880b47dd1e956f0ef7d19518e9b1207a5",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T185303Z-mosquitto-preliminary_density-0e3683ee09bfa0aa",
+    "file": "manifest.json",
+    "sha256": "383c44eb14751091ae73d2e25971e80457e3c79a112432e0104672deff4d0fa5",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T185303Z-mosquitto-preliminary_density-0e3683ee09bfa0aa",
+    "file": "manifest.partial.json",
+    "sha256": "3a251ed4520ba7ae9da4df9810e94ef7ea562c785196fcc443385576a4a5f01e",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T185545Z-mosquitto-preliminary_density-f77cf42a8f472737",
+    "file": "manifest.json",
+    "sha256": "d65cb4870919e4eb9a257324e515664cb0132507998b8ad572cd0ac420f0b5db",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T185545Z-mosquitto-preliminary_density-f77cf42a8f472737",
+    "file": "manifest.partial.json",
+    "sha256": "44dd0a8db2d9b0529588985e32fbb9a1fda3b4b4f19583a8773a3bcf8b4629e9",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T185829Z-mosquitto-preliminary_density-2b22219080703725",
+    "file": "manifest.json",
+    "sha256": "a76877718d9ae4c15147bdd58fa43d86888b63cd82d0a207968ae03098944445",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T185829Z-mosquitto-preliminary_density-2b22219080703725",
+    "file": "manifest.partial.json",
+    "sha256": "a9c40104793e4556a5a5d6deb1084e203ede3507d9bc8538e3b289c23df4f83e",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T190114Z-mosquitto-preliminary_density-644db8687717d502",
+    "file": "manifest.json",
+    "sha256": "e3812ad9b31241a01066ecd79351ec3c5aab82350a27b63ff1f514ed59102a1b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T190114Z-mosquitto-preliminary_density-644db8687717d502",
+    "file": "manifest.partial.json",
+    "sha256": "144d1c3de429c0b86e66425b1ac2eebe4e138d2aa45127afb49545616d4f1f6d",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T190358Z-mosquitto-preliminary_density-334a82a11b446a75",
+    "file": "manifest.json",
+    "sha256": "601dba639a651958bf3a8980df96e220459d1d3a4d5e4f40d54adafed9c94384",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T190358Z-mosquitto-preliminary_density-334a82a11b446a75",
+    "file": "manifest.partial.json",
+    "sha256": "54053e1f763c5d4c67e222e5161490e53fafb983de7327d85f87ca5a6ba4618e",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T190651Z-mosquitto-preliminary_density-a26a013ac734a7f9",
+    "file": "manifest.json",
+    "sha256": "6bf1538a6a9422f91ab9d4cad72d267d692bcfdde3792f0bbaa42d0f8dfe2e9d",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T190651Z-mosquitto-preliminary_density-a26a013ac734a7f9",
+    "file": "manifest.partial.json",
+    "sha256": "99702a7ce5b43d9cd362c2cf1e488533c79b6e5cef4c07b8d79ac60c2638e0e4",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T190944Z-mosquitto-preliminary_density-366f02a8828245b7",
+    "file": "manifest.json",
+    "sha256": "99f1529256134f5c07b77824093d115e4e1f820422ee1e1dc6ffc5e2ed0d1c8b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T190944Z-mosquitto-preliminary_density-366f02a8828245b7",
+    "file": "manifest.partial.json",
+    "sha256": "787ca2569507d93393e81d13de444ddfa77072cf8dcb412e96d6b14317860402",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T191346Z-rabbitmq-preliminary_density-c92108849e22de5d",
+    "file": "manifest.json",
+    "sha256": "fd25141e557ac4a63420fe3f66acfcd45649c2609ea09ef7d6f4851f8462eb96",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T191346Z-rabbitmq-preliminary_density-c92108849e22de5d",
+    "file": "manifest.partial.json",
+    "sha256": "9b7f22f5462380903f58aabc1fd83a6d1f3a487dd5cf3c0309b12886627cc700",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T191632Z-rabbitmq-preliminary_density-eca16582320aa165",
+    "file": "manifest.json",
+    "sha256": "72845bf3c32afdaa3d3b6838e189a56bcef9c31bc96198ea2b827cea8cb78bd4",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T191632Z-rabbitmq-preliminary_density-eca16582320aa165",
+    "file": "manifest.partial.json",
+    "sha256": "b7b89a035b568d62c66026d31da2f42ddc1e27a5ca8a665001addcb89731700e",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T191918Z-rabbitmq-preliminary_density-b02149ad42318209",
+    "file": "manifest.json",
+    "sha256": "f73a69d58f9a94ece9862d9bdc9ac4118b86c2a3577b272446fcf0910c002699",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T191918Z-rabbitmq-preliminary_density-b02149ad42318209",
+    "file": "manifest.partial.json",
+    "sha256": "b59a32e41b42817337d3bfeaba2708b8905f38cc01a142274a0afe024a8f5541",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T192203Z-rabbitmq-preliminary_density-f275bb12d72185d6",
+    "file": "manifest.json",
+    "sha256": "292c096a7c99c55bd234367831771a28c2cdb0e716202abd431f75443b84647e",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T192203Z-rabbitmq-preliminary_density-f275bb12d72185d6",
+    "file": "manifest.partial.json",
+    "sha256": "cd0ad73bc8dc45dd6dde45b2cfb25ea6e468adbfec86fafef20ed7f91bd14c10",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T192451Z-rabbitmq-preliminary_density-459ab5b317fce121",
+    "file": "manifest.json",
+    "sha256": "d1616feafd4e0b1af73817ba11dc8288851b347ad5fd0f82bd30c30e918e1dad",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T192451Z-rabbitmq-preliminary_density-459ab5b317fce121",
+    "file": "manifest.partial.json",
+    "sha256": "baa373dd59d6e678c4e2a1e3dd771ca93f55b9ed53a3a29aca07e32c4025783d",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T192738Z-rabbitmq-preliminary_density-9d33adafc93007ef",
+    "file": "manifest.json",
+    "sha256": "b8cf14aeb299817084e388964e589e93f5bc4a13f1195b212704a1c62b88d0ac",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T192738Z-rabbitmq-preliminary_density-9d33adafc93007ef",
+    "file": "manifest.partial.json",
+    "sha256": "0cf09dab571f04bcc764459a4305f3a02ea77364188568391b34744a29059cc0",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T193025Z-rabbitmq-preliminary_density-7a96c20245b2de30",
+    "file": "manifest.json",
+    "sha256": "92f34187e5221d0dc4a1779acc4242640e27752718437c38662d1dea625ad39c",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T193025Z-rabbitmq-preliminary_density-7a96c20245b2de30",
+    "file": "manifest.partial.json",
+    "sha256": "0a8e86a8eadc36d04321ec6d1c98653ad7e69f5fea644907f9350d54d690cdca",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T193322Z-rabbitmq-preliminary_density-4eb71a0a44b2e187",
+    "file": "manifest.json",
+    "sha256": "4fd89c3b8005b5122b5cd1b3060e7ffc9b82aafd3169aa48bd9b68888fea1276",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T193322Z-rabbitmq-preliminary_density-4eb71a0a44b2e187",
+    "file": "manifest.partial.json",
+    "sha256": "ce21080965412d386597df796a371cefd6d0e58d8adab454ece2723d9df6b608",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T193619Z-rabbitmq-preliminary_density-cd15a217c957e6b8",
+    "file": "manifest.json",
+    "sha256": "a10db8ef9326c96be654efd50e313b01b8ca7e8a7cdf722580d4020b98113e06",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T193619Z-rabbitmq-preliminary_density-cd15a217c957e6b8",
+    "file": "manifest.partial.json",
+    "sha256": "90eede6509208888496c2d59283b20dbc295d87c1049a3200b7852d43100ce4d",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T194026Z-kafka-preliminary_density-5404cd6658fbf927",
+    "file": "manifest.json",
+    "sha256": "0bd96c6681bc3189a18644520ed8be321557fc51e01d6d1b160a66f6f510a22e",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T194026Z-kafka-preliminary_density-5404cd6658fbf927",
+    "file": "manifest.partial.json",
+    "sha256": "4c2673d3873fa24ee8271e56708e2df8c00b8019393f5b1b415c32fbe57daaee",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T194314Z-kafka-preliminary_density-f745f2d65940f0b2",
+    "file": "manifest.json",
+    "sha256": "921b75c2282b92664aa0469e886318c0b2901d878442918b59303307d86f9218",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T194314Z-kafka-preliminary_density-f745f2d65940f0b2",
+    "file": "manifest.partial.json",
+    "sha256": "319752b48ffd26a0f0190b2373c8ab49e808b95b34897623ad2422a29f56c138",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T194602Z-kafka-preliminary_density-7c6d86a7760df68f",
+    "file": "manifest.json",
+    "sha256": "4928d3b8e8aa0af84c667d08301e27f5d2c04b3903b9c32e320a4d1041db2cb0",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T194602Z-kafka-preliminary_density-7c6d86a7760df68f",
+    "file": "manifest.partial.json",
+    "sha256": "e4bac1660a40917e3011b3aad1f2dde448a04636b0a5f69b0eab72f825035233",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T194850Z-kafka-preliminary_density-51d8a7ae1d6eb7d0",
+    "file": "manifest.json",
+    "sha256": "9852bafec7e3c4c0be1ec91d2f39eda9e49e7f56f8b6219cd70297d0e8929c52",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T194850Z-kafka-preliminary_density-51d8a7ae1d6eb7d0",
+    "file": "manifest.partial.json",
+    "sha256": "8e5360178db127f1b36c2535c5606706f0465b925bc14a323886d94aad87e68e",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T195140Z-kafka-preliminary_density-9e76fdbdf0618445",
+    "file": "manifest.json",
+    "sha256": "904af3ce903f3b1c410f0d6fd53db25052e81a48a829f0a788d80a3e456f69e6",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T195140Z-kafka-preliminary_density-9e76fdbdf0618445",
+    "file": "manifest.partial.json",
+    "sha256": "9eafa6f7f79a76ee0f85422fb633955f75516f34366e7094e1a9d0fda36374f1",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T195429Z-kafka-preliminary_density-dd9dcc600998fe72",
+    "file": "manifest.json",
+    "sha256": "f7284a9f6b42e6883f09da52753b937823dbc3bca0db66654206f64f9afa4360",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T195429Z-kafka-preliminary_density-dd9dcc600998fe72",
+    "file": "manifest.partial.json",
+    "sha256": "2070b7ae18a812100b783306072f3b653e78fda6391633369174f9af2ac78bc8",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T195718Z-kafka-preliminary_density-5a5972260a358478",
+    "file": "manifest.json",
+    "sha256": "a9fec84cd2f3cad39366b12798029eb31e9a315485af10ba01b357b3195ff8bd",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T195718Z-kafka-preliminary_density-5a5972260a358478",
+    "file": "manifest.partial.json",
+    "sha256": "98828577f58482974388b373846f4b8e41762f221a65d1b22c3b851bf581ad58",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T200016Z-kafka-preliminary_density-48826e68fccc9377",
+    "file": "manifest.json",
+    "sha256": "5ef44d416f7cbf63df4e58d76b179ef79f442bba57d114272cdf404838d6fc07",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T200016Z-kafka-preliminary_density-48826e68fccc9377",
+    "file": "manifest.partial.json",
+    "sha256": "9ce84b5a81e271d41682fea69a25a8aff5fd70c4868f22c510a52ae34d69897a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T200314Z-kafka-preliminary_density-6c8540dfa308f5c6",
+    "file": "manifest.json",
+    "sha256": "e21957a81ac5b4ef78d6c5d424790abf5f7d1e511d421f573b770a7746b656dc",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T200314Z-kafka-preliminary_density-6c8540dfa308f5c6",
+    "file": "manifest.partial.json",
+    "sha256": "2603d4378bdb3e0d7e49219a84d94ffd3d67c7005e98fb65e5f316687619267c",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T200723Z-nats-preliminary_density-2b0ad49d13df31f6",
+    "file": "manifest.json",
+    "sha256": "ecfbb4321fbd1ba00ca8778bc526ddc2287fb6abaa5d0cea11065d2a4a4b5beb",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T200723Z-nats-preliminary_density-2b0ad49d13df31f6",
+    "file": "manifest.partial.json",
+    "sha256": "ba98a65c15a19e1fc797737d74e816a6b31e74363ed687dcb170780e36311193",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T201006Z-nats-preliminary_density-6343528ce0e6eea0",
+    "file": "manifest.json",
+    "sha256": "b845c43edfd3276e86817dcfabe63c55ad0deb8661e770561491f5c83055499f",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T201006Z-nats-preliminary_density-6343528ce0e6eea0",
+    "file": "manifest.partial.json",
+    "sha256": "7353c002b248908c0d457cc35badafbcd21cd36b2c99cf315a30b383c7b226c3",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T201248Z-nats-preliminary_density-1e0e0b7c6a708517",
+    "file": "manifest.json",
+    "sha256": "0832ee52daa7fa51f8f76366fa59eea04833c6def692398fa0d71d59c3d3ba61",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T201248Z-nats-preliminary_density-1e0e0b7c6a708517",
+    "file": "manifest.partial.json",
+    "sha256": "b1fb4831ebea236695972644f4a3feb9ef200433316380cbecbd144c94126d1c",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T201530Z-nats-preliminary_density-628376d065280ae3",
+    "file": "manifest.json",
+    "sha256": "7861a0200e53c97eb25c28a6f23e8ac2b51db4ca439a76de37aee668bd9f5c9b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T201530Z-nats-preliminary_density-628376d065280ae3",
+    "file": "manifest.partial.json",
+    "sha256": "c4c3b4e6d983271c7b4973c7304fe486a4f92d19e300a04c216f93fbfc5ddafc",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T201814Z-nats-preliminary_density-d28837cdee38f63c",
+    "file": "manifest.json",
+    "sha256": "98b31b7f4a807f958865ae56017cd7471ff1856880b2a90918c6c4aa1164bb93",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T201814Z-nats-preliminary_density-d28837cdee38f63c",
+    "file": "manifest.partial.json",
+    "sha256": "e232b3cbb0151b9ae71241b515370f2c11cbff7ec2be74e0fc3308165a93b707",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T202059Z-nats-preliminary_density-b8a13af5860f18ec",
+    "file": "manifest.json",
+    "sha256": "577f526519ce014f8e41eede65fda671dd08adcc198587d0420c1e50741d2eec",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T202059Z-nats-preliminary_density-b8a13af5860f18ec",
+    "file": "manifest.partial.json",
+    "sha256": "c71ac061c4ea6ca88411a64e460e2fb614d1d8dcee5c7a7facba70473479adf7",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T202343Z-nats-preliminary_density-a1013bcd83a99ae1",
+    "file": "manifest.json",
+    "sha256": "ed6b84e7a19f19ac1007feae87c051e04de1b92a7ae0c6697a526169ed3dce85",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T202343Z-nats-preliminary_density-a1013bcd83a99ae1",
+    "file": "manifest.partial.json",
+    "sha256": "bf62220b78d211cfa1b9c39e4335359a3b9a6014816b81edfca84ab3b5066640",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T202636Z-nats-preliminary_density-5a709bbf515f6b39",
+    "file": "manifest.json",
+    "sha256": "50d332e5e298c2049914dad1a2f58dde1d9fd75f23f6372ec3231a2e9ca2bd98",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T202636Z-nats-preliminary_density-5a709bbf515f6b39",
+    "file": "manifest.partial.json",
+    "sha256": "665bff60a93db2e8b95f36476731173e90f3926e2a96c0c308d89925ae80c1a4",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T202928Z-nats-preliminary_density-1ffe132ed5dbca26",
+    "file": "manifest.json",
+    "sha256": "e327d32801508752d660dbdc47249d729f510017478906336106aa23f7fb9339",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T202928Z-nats-preliminary_density-1ffe132ed5dbca26",
+    "file": "manifest.partial.json",
+    "sha256": "a08799df19d5cc723405c72eaa2e467567d2fe2e3fe7d64d192200f4003340f6",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T203331Z-nats-preliminary_density-a3ad39540a3405bc",
+    "file": "manifest.json",
+    "sha256": "8c22e3528c20fce16ff6f4cc2d00a34ab5d61feb50badd0d8d879a2dca43203c",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T203331Z-nats-preliminary_density-a3ad39540a3405bc",
+    "file": "manifest.partial.json",
+    "sha256": "b8714921bd9b6dc6539fc1837c807a6d40aa00b0f96557a1a58899126791e243",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T203745Z-nats-preliminary_density-06114efce76a796f",
+    "file": "manifest.json",
+    "sha256": "24dd77bd74b66d2706500ed204f95d650ad3dcd9a27084fbcae13059746fa058",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T203745Z-nats-preliminary_density-06114efce76a796f",
+    "file": "manifest.partial.json",
+    "sha256": "a785541eae1886d93de98d07a087bf932dc0f543e6fa986d8c9ecdce8a427ce4",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T204159Z-nats-preliminary_density-95ef2ac18cf619a7",
+    "file": "manifest.json",
+    "sha256": "adb49257ece39919282a6c0c5459083fe0fef35548363788d2d3acf855ae5fe8",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T204159Z-nats-preliminary_density-95ef2ac18cf619a7",
+    "file": "manifest.partial.json",
+    "sha256": "dc9f96476b011efc09a914ce5c7e3d8f1a28182c2669110de6acb22bd279c245",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T204612Z-nats-preliminary_density-cff5470287105851",
+    "file": "manifest.json",
+    "sha256": "e83fe0b09f66ff4c0ab3175a0d2e6a83c6cb724741eec04be5b71f577705e52b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T204612Z-nats-preliminary_density-cff5470287105851",
+    "file": "manifest.partial.json",
+    "sha256": "2b6f726fdc3779826225676d4d1533fd137d3307a236c9f0ac6297c07a4cc0e7",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T205101Z-nats-preliminary_density-dddf543a6aef83db",
+    "file": "manifest.json",
+    "sha256": "3d90ec77677506685ccffffd607c8672b5aa429025e8a93c013ba09dc90f91c9",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T205101Z-nats-preliminary_density-dddf543a6aef83db",
+    "file": "manifest.partial.json",
+    "sha256": "0606b63550c5a999ce11d21652fee249041459ebc686632f6fbd6b2558285932",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T205550Z-nats-preliminary_density-040939253c395c87",
+    "file": "manifest.json",
+    "sha256": "b620cfbcb6b8702e7f34636f402f0bdbe4bfd2d0b1540e6df0ee265c226cd56e",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T205550Z-nats-preliminary_density-040939253c395c87",
+    "file": "manifest.partial.json",
+    "sha256": "b68a0d1517001f6e69b27cc279f8fc825dff7e66a772baf66d0899114c86e7cb",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T210039Z-mosquitto-preliminary_density-a5dd16fcaee506d1",
+    "file": "manifest.json",
+    "sha256": "2f180054290e7659ea2aa3403a11ef7bdfefcf1e3b74c484a472e6709594bdaa",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T210039Z-mosquitto-preliminary_density-a5dd16fcaee506d1",
+    "file": "manifest.partial.json",
+    "sha256": "239afa99ce04b551454bf05c2bf3897691f42aed3c62ee3fe1644c119d509a10",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T210453Z-mosquitto-preliminary_density-29268d66fa883c55",
+    "file": "manifest.json",
+    "sha256": "9d720c3b474d39553a702bb1fe71301f936631eae8e2752cda6b0098b22fafdf",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T210453Z-mosquitto-preliminary_density-29268d66fa883c55",
+    "file": "manifest.partial.json",
+    "sha256": "a8ff383f7261e86a909916f1404815777f80c6589829dbd7896ef4ae4aaf481d",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T210906Z-mosquitto-preliminary_density-9efeb0d156af19da",
+    "file": "manifest.json",
+    "sha256": "081d882b2bdbe3c6c26413b665afb1d2f3ca631996498016620d97d7ade061b3",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T210906Z-mosquitto-preliminary_density-9efeb0d156af19da",
+    "file": "manifest.partial.json",
+    "sha256": "16369e8de4d2d4d9c4944e384583bfb47a55345d7f2e2729f3f5152580d72a4a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T211320Z-mosquitto-preliminary_density-70521db078bb5676",
+    "file": "manifest.json",
+    "sha256": "8f7037398049e885d9d8af82fb03ca3d7613c615a305713df74bbd2a07ee7162",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T211320Z-mosquitto-preliminary_density-70521db078bb5676",
+    "file": "manifest.partial.json",
+    "sha256": "e4afc6135a114d2a0b15b0771e0fc1e0a940f53889ae232f0c584643b6dbd830",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T211807Z-mosquitto-preliminary_density-6bd7e5fb8e31ebf8",
+    "file": "manifest.json",
+    "sha256": "0a34d6491ce3378747d77d0d56fd69c249ccfe4eca566caa17838f8dd4ad68fa",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T211807Z-mosquitto-preliminary_density-6bd7e5fb8e31ebf8",
+    "file": "manifest.partial.json",
+    "sha256": "b38bda7ba5699a5761c85cf245e7b554e6513ea7bd71d0c760a8861818905937",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T212255Z-mosquitto-preliminary_density-6b813933aa23af86",
+    "file": "manifest.json",
+    "sha256": "6276228af5810104979e4fb55f7f8b741c7bc11ad99d20f3c6f19bfd9dae19f1",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T212255Z-mosquitto-preliminary_density-6b813933aa23af86",
+    "file": "manifest.partial.json",
+    "sha256": "c682125a7a09de305cea75543fce5be5ae6a3364371a1d1aaaaf04b802f0a0e3",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T212743Z-rabbitmq-preliminary_density-fdd827b33c39d4d9",
+    "file": "manifest.json",
+    "sha256": "8029024db0f9001746088cff7553d9e98b7f9c3eeaffd54739398a5f23e786fb",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T212743Z-rabbitmq-preliminary_density-fdd827b33c39d4d9",
+    "file": "manifest.partial.json",
+    "sha256": "4a4cc971329a50931c100cfa66014a9de0f4e099e57c55cc42a430efef47e708",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T213204Z-rabbitmq-preliminary_density-334017438816bfdd",
+    "file": "manifest.json",
+    "sha256": "ce8bec3d7f23525c8d07999b1bc6d2f06f1fcb5582186b94e8c338879d5ce8b5",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T213204Z-rabbitmq-preliminary_density-334017438816bfdd",
+    "file": "manifest.partial.json",
+    "sha256": "18c500c6a1be4930cf3548107e43c677d29641efff359b08cd46d92f6cf74e37",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T213624Z-rabbitmq-preliminary_density-99785f92edcab53b",
+    "file": "manifest.json",
+    "sha256": "b8b0d8de67a286e15226b67d308fac945666f44db310f7a849ae8d3ff7cac6f7",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T213624Z-rabbitmq-preliminary_density-99785f92edcab53b",
+    "file": "manifest.partial.json",
+    "sha256": "7a5c511b12eb78b73a1aa3b4a93c3fccff09335723f3b27a34a1eb16a2d9fe1f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T214044Z-rabbitmq-preliminary_density-887bf9d72f93dc4e",
+    "file": "manifest.json",
+    "sha256": "386a8c7c43b895174d4574c4a51b2820773eb3ec8b1980081fa9b384d12d92db",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T214044Z-rabbitmq-preliminary_density-887bf9d72f93dc4e",
+    "file": "manifest.partial.json",
+    "sha256": "a441231b28ac7ccfde6cc49fc0a7afda29df8067e75c78392541d82fd4b511f1",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T214623Z-rabbitmq-preliminary_density-da669d0962f59e3a",
+    "file": "manifest.json",
+    "sha256": "f3e48c06e904b45508830f69ba821f6a923ba8281660cf9541b107c3672de1a5",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T214623Z-rabbitmq-preliminary_density-da669d0962f59e3a",
+    "file": "manifest.partial.json",
+    "sha256": "759c796484f44d8ddfb86d98c062c1f3be3a63fd8e01c199db5cce171c8e2749",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T215200Z-rabbitmq-preliminary_density-96794195e24314a5",
+    "file": "manifest.json",
+    "sha256": "e559e526197bc803f803b82973fdb4051cd9771c08e3b802064f8d0a9d5d6d3a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T215200Z-rabbitmq-preliminary_density-96794195e24314a5",
+    "file": "manifest.partial.json",
+    "sha256": "eb34f9ec6f789063d5ff03c07d6e0e389000cce60b551b711d167418e84af1f7",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T215743Z-kafka-preliminary_density-25e6ebbd1dca75c5",
+    "file": "manifest.json",
+    "sha256": "3cd8d70e29093113f1973a47c3b461849f0f200f5bd236162d4f3dfe1a45362a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T215743Z-kafka-preliminary_density-25e6ebbd1dca75c5",
+    "file": "manifest.partial.json",
+    "sha256": "3751b8759fe8238dcb4108de9469b4265e79e918004ac2498d8931b58dbc9112",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T220154Z-kafka-preliminary_density-e6bbcbdad6b83414",
+    "file": "manifest.json",
+    "sha256": "06633dc0bdf41bbe84ee07eca20139afa225bbe99adceedbffa0b6267fcd7c15",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T220154Z-kafka-preliminary_density-e6bbcbdad6b83414",
+    "file": "manifest.partial.json",
+    "sha256": "d91bbb9dc7f7628e89e6a445fc5d9abf73867fddb728aa7a37fcf20c3bf71017",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T220604Z-kafka-preliminary_density-970ef95215947368",
+    "file": "manifest.json",
+    "sha256": "55fb91e16b43ec14ce337a12b778b0136bbf3d345e457ee7c563758a93063579",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T220604Z-kafka-preliminary_density-970ef95215947368",
+    "file": "manifest.partial.json",
+    "sha256": "ad934f6ad76b2c6d176c2afba9ae94a19d7365d38d203c41b5b44f32e3a0a946",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T221015Z-kafka-preliminary_density-40ce4307f6056a13",
+    "file": "manifest.json",
+    "sha256": "c60e00f60655c2b52af22acb5c1457f2eb58a78283f68ac966007d85894fa550",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T221015Z-kafka-preliminary_density-40ce4307f6056a13",
+    "file": "manifest.partial.json",
+    "sha256": "538ca138351b4cb03f7c6e8a0161cf9366154d63a36dc2fe59ce4ea320fb6103",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T221427Z-kafka-preliminary_density-452c343752a159d9",
+    "file": "manifest.json",
+    "sha256": "e3f35161a83bb0609e784e5b070cc2aadedfbbfa96a0b17d4231a6113c2c16f0",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T221427Z-kafka-preliminary_density-452c343752a159d9",
+    "file": "manifest.partial.json",
+    "sha256": "af4d29031f223698fa6869f0b4a4661d3f28480dae1fbec6ddcf47c8ff4b7f75",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T221840Z-kafka-preliminary_density-f844e16af9664566",
+    "file": "manifest.json",
+    "sha256": "9f785c05c653a59073c8f58bfef78280e22cabf67a9a710e2b41a5bda01f3c30",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T221840Z-kafka-preliminary_density-f844e16af9664566",
+    "file": "manifest.partial.json",
+    "sha256": "cd2891468b4c1d952edb351ed93a071893468ace078620da5f73109dbfc3eb6a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T222252Z-kafka-preliminary_density-38df72b49fb62efa",
+    "file": "manifest.json",
+    "sha256": "677e63d2aa93a6fcc1708c87ff2812f47f60589dc9c8585f333d1484309226ac",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T222252Z-kafka-preliminary_density-38df72b49fb62efa",
+    "file": "manifest.partial.json",
+    "sha256": "4a86759f621c12e468393d1c4baeba7d12025df4960acbf33be4fc3b8b060906",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T222707Z-kafka-preliminary_density-081066aa705b37d1",
+    "file": "manifest.json",
+    "sha256": "78bc4abcf4b1a1b0aeacd3441c18e6c2c76361a4e7fa71d451b50d53423e5bb4",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T222707Z-kafka-preliminary_density-081066aa705b37d1",
+    "file": "manifest.partial.json",
+    "sha256": "d87bfd1234cca6575967c3d8b61dd35995cb173ed6679f5dffdc6308d1a88975",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T223123Z-kafka-preliminary_density-8edc979cd4f334a5",
+    "file": "manifest.json",
+    "sha256": "6f0dbd64ab73342ca965b45949c36f1e242cd53536c55d33dcb2b524dec25803",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T223123Z-kafka-preliminary_density-8edc979cd4f334a5",
+    "file": "manifest.partial.json",
+    "sha256": "efbac3bc311e05a85ee93fa4a97e87ce7d3baf89e0fd10ced8cc82bc9005ae13",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T223538Z-kafka-preliminary_density-81b22e571627b4fd",
+    "file": "manifest.json",
+    "sha256": "dee262af069daa0ea57c515d2e487add3a8437429cdc3ff0b8895f8b76863c00",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T223538Z-kafka-preliminary_density-81b22e571627b4fd",
+    "file": "manifest.partial.json",
+    "sha256": "0625af21d6bb40c8829584bfe600a3f0a4bf423eced81e9729155d3027212aac",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T223955Z-kafka-preliminary_density-1f6e7d7af895848d",
+    "file": "manifest.json",
+    "sha256": "44fb962d8dcb088b44bf213c4267f9ef1f292998e16360186259411be9f07aac",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T223955Z-kafka-preliminary_density-1f6e7d7af895848d",
+    "file": "manifest.partial.json",
+    "sha256": "ac1f039679d622816a49c521ed80713b7eb2edead1d9436f18f350af31c8adb6",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T224412Z-kafka-preliminary_density-4f50920f49cc2add",
+    "file": "manifest.json",
+    "sha256": "bc4b44456ad7d57809711c71b904a9b3c43b77ddda95626bfa058074500a658b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T224412Z-kafka-preliminary_density-4f50920f49cc2add",
+    "file": "manifest.partial.json",
+    "sha256": "50bf84d289e0990202ed2c56f5f28ba615d70940e6c64eda50842ac1ca739d48",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T225141Z-nats-nir1_final_connection_density-6f549486727d6e53",
+    "file": "manifest.json",
+    "sha256": "3fe78775fef229b982f6b996bf57568b8e99fc5c7f69da854583269102dc6029",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T225141Z-nats-nir1_final_connection_density-6f549486727d6e53",
+    "file": "manifest.partial.json",
+    "sha256": "07abfacbeb6361849bf097e0d126e64de6261aa22325319720b8f115f5bc07f6",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T225923Z-nats-nir1_final_connection_density-fd3ca06881395816",
+    "file": "manifest.json",
+    "sha256": "abf58c6d88860fac155fcc197ebf2ed2c727e14e4d29116f855e93b59f691419",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T225923Z-nats-nir1_final_connection_density-fd3ca06881395816",
+    "file": "manifest.partial.json",
+    "sha256": "bc1771d711fcca567ed2d1537de8f8541ad64e25062a8579b149b1e28107f3e7",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T230706Z-nats-nir1_final_connection_density-3b893d3eb8c9e964",
+    "file": "manifest.json",
+    "sha256": "704c576aec1a60cb91532a0c787b4f15f994eff8a7ff1b51b59b2672edd9d63e",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T230706Z-nats-nir1_final_connection_density-3b893d3eb8c9e964",
+    "file": "manifest.partial.json",
+    "sha256": "60197abd44dfa55be60ebc60f1678b49ac8bf00b019893847dfd159626c5cce6",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T231448Z-nats-nir1_final_connection_density-800a438ffee15d25",
+    "file": "manifest.json",
+    "sha256": "ef19e4f64ef87f781254d8b3b1be810319a5228de29aa55f7b4f2003f92b095a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T231448Z-nats-nir1_final_connection_density-800a438ffee15d25",
+    "file": "manifest.partial.json",
+    "sha256": "5c00f0be511dc34abd4d4e73c756dd9f8349fb33361a0ae13151d04d5b2d8972",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T232230Z-nats-nir1_final_connection_density-93e454706c3f450d",
+    "file": "manifest.json",
+    "sha256": "43ee981065d6d3437fabf36bf9bb5bfa7cc7f394d98e3706a9320928d22b060f",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T232230Z-nats-nir1_final_connection_density-93e454706c3f450d",
+    "file": "manifest.partial.json",
+    "sha256": "e317d254c4a4371aa26fe203cdd4b309588c2b6a394b2062c22d1f38f36b694e",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T233013Z-nats-nir1_final_connection_density-902f6523470d8e8b",
+    "file": "manifest.json",
+    "sha256": "02bddb90dd2a610e371f25fce99e8e11d7dcbc0e4659fb457154e614593e360b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T233013Z-nats-nir1_final_connection_density-902f6523470d8e8b",
+    "file": "manifest.partial.json",
+    "sha256": "704759bc7d976371ffc022f0db5a06604322be8149d7d10fb0ea1871434fbecd",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T233757Z-nats-nir1_final_connection_density-c370700bec95abe0",
+    "file": "manifest.json",
+    "sha256": "837ed9ac5aa91350236262e4aac5432bd1ef86c31abb0e3260d2b6db1b82aef8",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T233757Z-nats-nir1_final_connection_density-c370700bec95abe0",
+    "file": "manifest.partial.json",
+    "sha256": "338e5d71f678935c18110545a11078b1b948e87dabf6baa8e885ed5ae802bc78",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T234541Z-nats-nir1_final_connection_density-8bb179a5ba2fa592",
+    "file": "manifest.json",
+    "sha256": "3a67805939273d1de3c7f5ffdec24105db609ed822780807b17c1adb0c23192b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T234541Z-nats-nir1_final_connection_density-8bb179a5ba2fa592",
+    "file": "manifest.partial.json",
+    "sha256": "ff3baf7cf540a014a744420e595a756484141158b4ca6f174f25fb0b549e9747",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261001T235326Z-nats-nir1_final_connection_density-c4abfe89e8f084ba",
+    "file": "manifest.json",
+    "sha256": "e6429d7dcb1f7bcc8d2ed17bf4573020e4913836b9db9907e16ef757b2f4be4d",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261001T235326Z-nats-nir1_final_connection_density-c4abfe89e8f084ba",
+    "file": "manifest.partial.json",
+    "sha256": "7e52e6f4eea3ec0d427a2eefaa09a6e84dc514796994a34982c2b570fa936dd3",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T000110Z-nats-nir1_final_connection_density-8f31a871fc66849b",
+    "file": "manifest.json",
+    "sha256": "a0ea078b35c21ba5e128925869ec051336b97934b44922370cb699bf2cddf79c",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T000110Z-nats-nir1_final_connection_density-8f31a871fc66849b",
+    "file": "manifest.partial.json",
+    "sha256": "831c17d07eee9bb841d648fd20eca08da7cee51e150f82f8d99d28061381f1c9",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T000855Z-nats-nir1_final_connection_density-a3d07bec56800e42",
+    "file": "manifest.json",
+    "sha256": "fa5e26992d3712ab4600b533e11344c628f36839b913f8db9857bb76006e043a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T000855Z-nats-nir1_final_connection_density-a3d07bec56800e42",
+    "file": "manifest.partial.json",
+    "sha256": "6363f052f43b12476b50ee080f290ce7f0258f5bf3b6788832977c3e571a55f8",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T001648Z-nats-nir1_final_connection_density-0be8210436699a92",
+    "file": "manifest.json",
+    "sha256": "c72aad6bae99b3cb8aa6a0dd46c3b57b2c6bad813572eddb7b68f7898b488d7a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T001648Z-nats-nir1_final_connection_density-0be8210436699a92",
+    "file": "manifest.partial.json",
+    "sha256": "439b91e08ae7a47291327ae24aa25b7094e18432ef2edf662f874a681d00d492",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T002441Z-nats-nir1_final_connection_density-9143e93ee97b8a0d",
+    "file": "manifest.json",
+    "sha256": "d6a4e616494af127160c82f1cbefd69727f1c743b4eb9c15bddeb0cea27dfbd0",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T002441Z-nats-nir1_final_connection_density-9143e93ee97b8a0d",
+    "file": "manifest.partial.json",
+    "sha256": "2a26d7bbdfee2764228d49e5954c19dbc76ca88186293ef3bd65d8c66170ad03",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T003234Z-nats-nir1_final_connection_density-578823cc32b1280c",
+    "file": "manifest.json",
+    "sha256": "b0a3fe1a905665288ad87d0d64a6aded93b5b33cdf36966dda24ae63904d36c6",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T003234Z-nats-nir1_final_connection_density-578823cc32b1280c",
+    "file": "manifest.partial.json",
+    "sha256": "7236638f6d9163068bc06271d5ef8e431821dc705361ceacfd40355693cab87f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T004028Z-nats-nir1_final_connection_density-b0e2db65b9f925c1",
+    "file": "manifest.json",
+    "sha256": "1ee536ca02c09ea15ce1adb48a47fa758eac0f268c696ce67940b9a6e71311ea",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T004028Z-nats-nir1_final_connection_density-b0e2db65b9f925c1",
+    "file": "manifest.partial.json",
+    "sha256": "59bd3005f4ed9730d5ec2f4380e0b1b20dad02080e10a414dfad1c841a4d58e9",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T004821Z-nats-nir1_final_connection_density-f2fde0931c8ed662",
+    "file": "manifest.json",
+    "sha256": "48416fe5fea001d15c0823c032cb14fd9e1eff4d25ecaeeafe1c01854a3ebda9",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T004821Z-nats-nir1_final_connection_density-f2fde0931c8ed662",
+    "file": "manifest.partial.json",
+    "sha256": "f21077117052bbfe8d59752fc000ce45b849da7f1c8c5679f1679286c31209bf",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T005626Z-nats-nir1_final_connection_density-4eb7587aa389b467",
+    "file": "manifest.json",
+    "sha256": "e1125f7718ac00f312f14b92dac0b222c531256f280c9355989f44f287303d12",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T005626Z-nats-nir1_final_connection_density-4eb7587aa389b467",
+    "file": "manifest.partial.json",
+    "sha256": "86540ea521834d2e1373000e5c957cf1d125b9ffc0e49f1ab33fefbdf2ff84d7",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T010430Z-nats-nir1_final_connection_density-5e69409d3afccfac",
+    "file": "manifest.json",
+    "sha256": "b067305bffabf523a44f9a9bb87fc46da7fa5b83c9d891d208337ffd6cf5d66c",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T010430Z-nats-nir1_final_connection_density-5e69409d3afccfac",
+    "file": "manifest.partial.json",
+    "sha256": "f0b07fb46c1e5f0d32ef3c3314d13814af63444162766135b315e29e209b7133",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T011235Z-nats-nir1_final_connection_density-37ca60b04110d79f",
+    "file": "manifest.json",
+    "sha256": "242fe52f6e472ca1f331bd2eb5c39223cb5dc334a69b559a104578181c304d0c",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T011235Z-nats-nir1_final_connection_density-37ca60b04110d79f",
+    "file": "manifest.partial.json",
+    "sha256": "5e5f50191637da0009a8cf0e86ebb10f2730bc8c08d0ec26eb316175a75b0b9b",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T012039Z-nats-nir1_final_connection_density-996f73df991da17e",
+    "file": "manifest.json",
+    "sha256": "566b80f39739e5b22eaeb81f515ad2de122768adf7d6b3f360a5efc8542e821f",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T012039Z-nats-nir1_final_connection_density-996f73df991da17e",
+    "file": "manifest.partial.json",
+    "sha256": "634f313ce14a8835c4e886a0490a8e85cf536d8e6a8af2ee0b2fc4b93c041a97",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T012844Z-nats-nir1_final_connection_density-e8cc43d66ffa8c81",
+    "file": "manifest.json",
+    "sha256": "16bb3640802a42b54f0beb5494a9a6da28f3ce22ab8ce56add1c35fda9245db1",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T012844Z-nats-nir1_final_connection_density-e8cc43d66ffa8c81",
+    "file": "manifest.partial.json",
+    "sha256": "a366c1035c47e1b6d0f8d583d90dd10f6695aad2fa6feebe8c459f7d811de492",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T013725Z-nats-nir1_final_connection_density-56b0c3874f7c429e",
+    "file": "manifest.json",
+    "sha256": "02609ceaf5b81287e7378a6b03ef72fe7bb0a7fdb21c341e8923f63f3c7fcff2",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T013725Z-nats-nir1_final_connection_density-56b0c3874f7c429e",
+    "file": "manifest.partial.json",
+    "sha256": "e461c07a58f9c0c9c821a2dd09ebbe1caf2a1cf3a6defb45b2e4fd6df7adf250",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T014606Z-nats-nir1_final_connection_density-c9e1f2d449c5dace",
+    "file": "manifest.json",
+    "sha256": "0f1fc6f6fd7d5b837f4f0f87ef460b8103f4352ac59f8c864caef63928bddcc7",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T014606Z-nats-nir1_final_connection_density-c9e1f2d449c5dace",
+    "file": "manifest.partial.json",
+    "sha256": "a89198f4a74bc6b52c635ec8ab7f0f734b7b314080e03919004face515d9251e",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T015448Z-nats-nir1_final_connection_density-60e60b4558014761",
+    "file": "manifest.json",
+    "sha256": "9711539e1b279fa31105bce53b56a606fb3f89d81da602d36af0bd915b5aa909",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T015448Z-nats-nir1_final_connection_density-60e60b4558014761",
+    "file": "manifest.partial.json",
+    "sha256": "a7e031ce1502a498b545da0c1fc598f7fac8a8815197a35c0b361eb64483a554",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T020329Z-nats-nir1_final_connection_density-9c9e30c1d4e709e2",
+    "file": "manifest.json",
+    "sha256": "a996909bb59b5fe7c141fb6f6c250ecc4ee955bf62954978682a9304c7f9083d",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T020329Z-nats-nir1_final_connection_density-9c9e30c1d4e709e2",
+    "file": "manifest.partial.json",
+    "sha256": "a51e36a2fc765976ba2cf74c3083a30b5340846d9c5196190cf5892f3574404f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T021210Z-nats-nir1_final_connection_density-475c3b2098a7bf80",
+    "file": "manifest.json",
+    "sha256": "607411e059aacf36d36c42d36d784b0c83185beb7ae7a50071b2b9d9c1bd1311",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T021210Z-nats-nir1_final_connection_density-475c3b2098a7bf80",
+    "file": "manifest.partial.json",
+    "sha256": "926a881fa1b8e7455aac77bf62fe17d51ab81dc75f7946453dc2470f96c66c28",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T021953Z-nats-nir1_final_connection_density-4f7033a6a7a575b3",
+    "file": "manifest.json",
+    "sha256": "27fe6787bb9436f74189d6c10882ab9ec1a6d64f5cf51711f66a265bf36a67c5",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T021953Z-nats-nir1_final_connection_density-4f7033a6a7a575b3",
+    "file": "manifest.partial.json",
+    "sha256": "e7f8208f8a5fdffa446162adf9db452b3eb19fc38ceb17bc2f338d4816aa6dce",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T022735Z-nats-nir1_final_connection_density-d45ac56db8dd1480",
+    "file": "manifest.json",
+    "sha256": "7de512501e5cc4793fac46b9d0c9f9d56fd3b1fd49b513cb37bb89b4cfa7ea0a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T022735Z-nats-nir1_final_connection_density-d45ac56db8dd1480",
+    "file": "manifest.partial.json",
+    "sha256": "588907e4d469d02f978e50ff66cec77b639035b8b423edc6b07e7b4086a2899f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T023518Z-nats-nir1_final_connection_density-210214709b5bb4d8",
+    "file": "manifest.json",
+    "sha256": "9bb79242c940e1e5fcf24faed951962e88c340500378b8e60f74897c02b00df3",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T023518Z-nats-nir1_final_connection_density-210214709b5bb4d8",
+    "file": "manifest.partial.json",
+    "sha256": "abc958333273b80bd85675a3ca2d67b4d57322cb22a12c78d7ebcc3c5f0a3c34",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T024300Z-nats-nir1_final_connection_density-40701a7a5bfa9a03",
+    "file": "manifest.json",
+    "sha256": "d4a9f849b9487f3a6bda66a4b033fd328e524af4d6d0bf7b38c2df1b395e463d",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T024300Z-nats-nir1_final_connection_density-40701a7a5bfa9a03",
+    "file": "manifest.partial.json",
+    "sha256": "0a4baa3fad0a8f68077761edea99d63e1986b51099c5ea8eb41ad0e4aae2b203",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T025042Z-nats-nir1_final_connection_density-08fc3ee87632090d",
+    "file": "manifest.json",
+    "sha256": "cf592b810c4ac3810c17ffa1a8b3ca862df8682d70df08ed62353feb98ae337a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T025042Z-nats-nir1_final_connection_density-08fc3ee87632090d",
+    "file": "manifest.partial.json",
+    "sha256": "64a054c0a82159eba9e8f81bb5f2886cff5e23bda9324a7b787c15d3cb3b417a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T025827Z-nats-nir1_final_connection_density-45c41333c3e2535f",
+    "file": "manifest.json",
+    "sha256": "96eda9bab646f6e011f62e7166f8d44a494a3711bd543a88609acde8bd88671d",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T025827Z-nats-nir1_final_connection_density-45c41333c3e2535f",
+    "file": "manifest.partial.json",
+    "sha256": "6ccdad855f8f6f025041860b9441ddb2e42c43f71d96636715c28a7dbbce3df5",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T030611Z-nats-nir1_final_connection_density-d72804677f0f62f6",
+    "file": "manifest.json",
+    "sha256": "742075176f33b8d4983d5fd09ca3a912ac6aaf8966deb2c0412c8ff58f23e15d",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T030611Z-nats-nir1_final_connection_density-d72804677f0f62f6",
+    "file": "manifest.partial.json",
+    "sha256": "1c1b1a38884b818883dedb81f77f04d5b3e95d5956e22c9e6cad4a8a7a617fa9",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T031355Z-nats-nir1_final_connection_density-bdbb0f7486a2e5c9",
+    "file": "manifest.json",
+    "sha256": "2d065867f2abeb2887870b5d1e890cce1ce563a8b338c83b3f5be899074c4a11",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T031355Z-nats-nir1_final_connection_density-bdbb0f7486a2e5c9",
+    "file": "manifest.partial.json",
+    "sha256": "a68b08652f600263bfe152dc360526c4ff2b7e240376b047e51bc7efb02358ff",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T032140Z-nats-nir1_final_connection_density-7853b02f352821b9",
+    "file": "manifest.json",
+    "sha256": "30a185980b598ef79ec9a628e6d190c7c3a68402b6deb44ca61635a287e5d175",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T032140Z-nats-nir1_final_connection_density-7853b02f352821b9",
+    "file": "manifest.partial.json",
+    "sha256": "389788b154aecddb506dbaf245cf58846b035d627ec178412b46156f97a78be7",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T032924Z-nats-nir1_final_connection_density-4ae5513404736b10",
+    "file": "manifest.json",
+    "sha256": "b7134edef5230ae9a56a8daa53aaa28ae9c5ee0c34a7e85b7d31a7237b45093a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T032924Z-nats-nir1_final_connection_density-4ae5513404736b10",
+    "file": "manifest.partial.json",
+    "sha256": "51ce5a92ac372f9fad981268f0d5f58fd37faffb99ecd9df497c263fbd94dd88",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T033717Z-nats-nir1_final_connection_density-c6655a4418a7d619",
+    "file": "manifest.json",
+    "sha256": "9c8a65052be484adedacf07bf46969fa81b38489821633373cfb5c510722ac51",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T033717Z-nats-nir1_final_connection_density-c6655a4418a7d619",
+    "file": "manifest.partial.json",
+    "sha256": "932c2f54f738b1206622c005c84e900851205a981292fa52eda9d59b1c15d657",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T034511Z-nats-nir1_final_connection_density-3e9440705de163e1",
+    "file": "manifest.json",
+    "sha256": "25c19543401d83ac0137fb009260f01a3bd49548802706944d956e0191d61bb4",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T034511Z-nats-nir1_final_connection_density-3e9440705de163e1",
+    "file": "manifest.partial.json",
+    "sha256": "3519b27fc4754192b5321082b3ce93966561625e61e1fcbea6c602d78c1344ce",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T035304Z-nats-nir1_final_connection_density-ba7ff6d82000c4d9",
+    "file": "manifest.json",
+    "sha256": "15a3e77c1cfe8a2ff45819cc4368b5894ce3c944bf56e7ef1162508d45fa4ec9",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T035304Z-nats-nir1_final_connection_density-ba7ff6d82000c4d9",
+    "file": "manifest.partial.json",
+    "sha256": "20244bc02bf7c85fcd363eb7cd70cc139dfb1def6042ff54fdc64a6c70fa2fa0",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T040057Z-nats-nir1_final_connection_density-a73a3608b871966b",
+    "file": "manifest.json",
+    "sha256": "80dea588af018b22089d153c32789f34b02e398a9833313ad9d72a2dadb1cf5f",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T040057Z-nats-nir1_final_connection_density-a73a3608b871966b",
+    "file": "manifest.partial.json",
+    "sha256": "192b84265b1979d2ecce6b8258318221afab0d6b4b239a6f3dca36e32e48c80a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T040851Z-nats-nir1_final_connection_density-2a9a29cab7cc752a",
+    "file": "manifest.json",
+    "sha256": "42293c1a5207699002cc8780f8da5fb254ed9d2d8aa783a8701e5f39240586e3",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T040851Z-nats-nir1_final_connection_density-2a9a29cab7cc752a",
+    "file": "manifest.partial.json",
+    "sha256": "c7b82207c2247689201df235316fdfc0206e1a5aa6d956ff96ef0ec0f60d05b7",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T041655Z-nats-nir1_final_connection_density-dca1b97debb0d024",
+    "file": "manifest.json",
+    "sha256": "4298b671fc080a89c3808dc0c4fdde66e1ef03a83323869f02c6d818cf78e4b4",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T041655Z-nats-nir1_final_connection_density-dca1b97debb0d024",
+    "file": "manifest.partial.json",
+    "sha256": "4a01c44db173e99a2c690aaf5244e74043634f87c47296c257d3496b297cb415",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T042500Z-nats-nir1_final_connection_density-8874c75889c43ecb",
+    "file": "manifest.json",
+    "sha256": "a2103df842543d52fa7277f0528ed8aa043b5a39d172728245d4795cbee21e45",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T042500Z-nats-nir1_final_connection_density-8874c75889c43ecb",
+    "file": "manifest.partial.json",
+    "sha256": "5edf230896ebbd75011416424505c27d205a05a5bc327e2fbe353d32ae6a9d11",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T043304Z-nats-nir1_final_connection_density-3039c75cb6d8fca7",
+    "file": "manifest.json",
+    "sha256": "9069ca27b96628dd82d7e88e6ae4d35ff2b42b2b47d8b905763a0e4f80db345a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T043304Z-nats-nir1_final_connection_density-3039c75cb6d8fca7",
+    "file": "manifest.partial.json",
+    "sha256": "102e64a7821688ba0254b822e9dc36376ae9456f7b3606218487dc4d6560ad5e",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T044109Z-nats-nir1_final_connection_density-bb67259a8fe46bbe",
+    "file": "manifest.json",
+    "sha256": "357c149e9d3b10ed88a9b7a92ac1cf30c5da60836b7ee766f609da2a48163330",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T044109Z-nats-nir1_final_connection_density-bb67259a8fe46bbe",
+    "file": "manifest.partial.json",
+    "sha256": "8be4159b8ea12c9c027e1a448bae18322d073abaaed58ada36c5e83db9b24d6d",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T044914Z-nats-nir1_final_connection_density-88dc4e96072c1b21",
+    "file": "manifest.json",
+    "sha256": "6ee6977b445e437760957c2d8593ffbca90af5842b50fff85b3ac5dbf3a8aaa3",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T044914Z-nats-nir1_final_connection_density-88dc4e96072c1b21",
+    "file": "manifest.partial.json",
+    "sha256": "adb0273492e0b0875822dc29e6b48a1f1b0266faca73904f28e20421a7d2a5f1",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T045755Z-nats-nir1_final_connection_density-c953ec62823f1747",
+    "file": "manifest.json",
+    "sha256": "3ffb8ba3407ad8c38a41b2c1f11f75e926fe63b32d6f679406cd34cd37e3bcdb",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T045755Z-nats-nir1_final_connection_density-c953ec62823f1747",
+    "file": "manifest.partial.json",
+    "sha256": "1783e7ea1e6769a125baf49013110e75e54ff96f38b609c0bdefe199d54c57e8",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T050637Z-nats-nir1_final_connection_density-fa859a047d8990f2",
+    "file": "manifest.json",
+    "sha256": "f67735a579c595dec60a1d3d1ad14510e3d6e5ce3ac285b93a720e21d930a841",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T050637Z-nats-nir1_final_connection_density-fa859a047d8990f2",
+    "file": "manifest.partial.json",
+    "sha256": "7d4c08cad5b6c6893fa44b2b2584def0fad8e1888473fddacca37208a0115b1c",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T051519Z-nats-nir1_final_connection_density-46b27c841481381e",
+    "file": "manifest.json",
+    "sha256": "3ad2fe0b43d9af8117a5ca20ed75380f8e05892577d8152dcd7a0bb1df5f66d4",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T051519Z-nats-nir1_final_connection_density-46b27c841481381e",
+    "file": "manifest.partial.json",
+    "sha256": "d6c029715ca825a35b24d64aec9c04f500e087d02fac7a493ff57562732b703a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T052400Z-nats-nir1_final_connection_density-938296845569bcfe",
+    "file": "manifest.json",
+    "sha256": "6587db602d28d188c1a07becc2e86df2184dfa2c4e4c5a0e86068042e5a35424",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T052400Z-nats-nir1_final_connection_density-938296845569bcfe",
+    "file": "manifest.partial.json",
+    "sha256": "d16aa6a0571b80db33ca0e2b14dc164c3d3f63f91278cf7e63d582ad57d49f60",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T053241Z-mosquitto-nir1_final_connection_density-962debdfc5007e3f",
+    "file": "manifest.json",
+    "sha256": "c5243e2ff3f8da37eba8c9354f75fe31e9ad1555cd07e60b33b1f0f4dd079ff2",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T053241Z-mosquitto-nir1_final_connection_density-962debdfc5007e3f",
+    "file": "manifest.partial.json",
+    "sha256": "d59f43ddc3a0bb4ba906ce92f460386378b916fa420bf0b18860e57826393170",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T054024Z-mosquitto-nir1_final_connection_density-496dc81a7674e1e4",
+    "file": "manifest.json",
+    "sha256": "0b925736b90b33e1e2e2fe8e6a798b1768e89cc9be98d37fdf4bc468cec3d19e",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T054024Z-mosquitto-nir1_final_connection_density-496dc81a7674e1e4",
+    "file": "manifest.partial.json",
+    "sha256": "63d4f12a115ff6c848c835e09b374bda6cdd3d3b3fac901a16fef33487410636",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T054806Z-mosquitto-nir1_final_connection_density-4944beeb05c711c1",
+    "file": "manifest.json",
+    "sha256": "81421f10298e3bac608672029017445fda78066b2bd24ec4fe1cc79e9e49ca6f",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T054806Z-mosquitto-nir1_final_connection_density-4944beeb05c711c1",
+    "file": "manifest.partial.json",
+    "sha256": "cbe67045f610f28fed60b4135a281e1942771cffb036ea7339041ef6ce6a917f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T055548Z-mosquitto-nir1_final_connection_density-0d5bc6bda96fec53",
+    "file": "manifest.json",
+    "sha256": "6405bed69c8e8ddd6437b0bf3c109bea606107dae63b126ee88f4a5d2de380a9",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T055548Z-mosquitto-nir1_final_connection_density-0d5bc6bda96fec53",
+    "file": "manifest.partial.json",
+    "sha256": "fdfba987b157302a58c4cda38ffd17d8590e602b63a3f2122d0921eec5d0f344",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T060331Z-mosquitto-nir1_final_connection_density-029a70a7a75ce609",
+    "file": "manifest.json",
+    "sha256": "fa91a2f1284e0506dd8fd6c8d98ffb1d3788dac909cd5301b0758f16ed8fdea1",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T060331Z-mosquitto-nir1_final_connection_density-029a70a7a75ce609",
+    "file": "manifest.partial.json",
+    "sha256": "23d4a5efc4aea4c505f1b3f95a26cb7292ee36df3297a052d6595124e6a961bd",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T061113Z-mosquitto-nir1_final_connection_density-64f3fcc4d37f024f",
+    "file": "manifest.json",
+    "sha256": "3aba8ba51c217bb7b743003acb670bf522764c7cf29ce77f8a67698afc51de9a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T061113Z-mosquitto-nir1_final_connection_density-64f3fcc4d37f024f",
+    "file": "manifest.partial.json",
+    "sha256": "767f3ae6996fb58cc6741610b8ed360423d95facdcce76c54ba38c680909ea35",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T061858Z-mosquitto-nir1_final_connection_density-a14f4a5831ca8ee6",
+    "file": "manifest.json",
+    "sha256": "4364d8f753e164cce29311232156f7314b2e267467b4ad66855698fe7f1f0067",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T061858Z-mosquitto-nir1_final_connection_density-a14f4a5831ca8ee6",
+    "file": "manifest.partial.json",
+    "sha256": "5db4a69349d8ce230349426008fed82fa3adc00a7dfd09e571a840f2c434f63a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T062642Z-mosquitto-nir1_final_connection_density-798f6905b56b67f5",
+    "file": "manifest.json",
+    "sha256": "9c1decbd7e05eeb170a4f3611c111405fb36350ccce7e562eaa9e9d44888dad9",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T062642Z-mosquitto-nir1_final_connection_density-798f6905b56b67f5",
+    "file": "manifest.partial.json",
+    "sha256": "59b620dfa1a8539a93b6dc8084a9491a5142ac1e02b103d2b530fdab07af5502",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T063426Z-mosquitto-nir1_final_connection_density-0f5253e4a23a3c7e",
+    "file": "manifest.json",
+    "sha256": "64514e6dad01e69f615a54cf04670d2d308737155557c6f5fac6ef75bf77a248",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261002T063426Z-mosquitto-nir1_final_connection_density-0f5253e4a23a3c7e",
+    "file": "manifest.partial.json",
+    "sha256": "f11490884947fd3f6cdb110d2800357a4304a888bb6dace6afe17373c5ffcf85",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261002T064211Z-mosquitto-nir1_final_connection_density-d4c7f56fda9c73a7",
+    "file": "manifest.partial.json",
+    "sha256": "317a12685bbe6351a1f4ed6b23090e1f486254496b78a41d97a5f12fc4284e53",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T042600Z-mosquitto-nir1_final_connection_density-06a7cc4db21fa3b3",
+    "file": "manifest.json",
+    "sha256": "2eeedb2ad4db99de0221de839d072b1fa4f6602008c17b24fd956fa10fbc9028",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T042600Z-mosquitto-nir1_final_connection_density-06a7cc4db21fa3b3",
+    "file": "manifest.partial.json",
+    "sha256": "9530116f91a361c06fb4c52d951f52f39f0c612d7145dd5ec9729df73726852a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T043344Z-mosquitto-nir1_final_connection_density-3970d487e4a408ad",
+    "file": "manifest.json",
+    "sha256": "4ba30f33807aaa8785d85893e85b45ba908118a93f66b90d732279005f1772fa",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T043344Z-mosquitto-nir1_final_connection_density-3970d487e4a408ad",
+    "file": "manifest.partial.json",
+    "sha256": "9f4d4995877ad0518dd67b9067a5296a7f4473a0934c22eac1f28a0e08a1bd97",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T044137Z-mosquitto-nir1_final_connection_density-bb74e18820e3aff8",
+    "file": "manifest.json",
+    "sha256": "e3d8b034b1ad8e716983e4a6637f4a2a6d6bb5b792e081107f8cf59a200ebf7e",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T044137Z-mosquitto-nir1_final_connection_density-bb74e18820e3aff8",
+    "file": "manifest.partial.json",
+    "sha256": "05a9209a26b4fb024e56d705a4a256e973ed2f4d393055b63ecd3f329b1d6302",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T044931Z-mosquitto-nir1_final_connection_density-82a6996ed8fa2beb",
+    "file": "manifest.json",
+    "sha256": "b7459adcfc6ad1a2c0e66e783dd396d0107ee0ce10ee3e192a26e41ca3a95bd5",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T044931Z-mosquitto-nir1_final_connection_density-82a6996ed8fa2beb",
+    "file": "manifest.partial.json",
+    "sha256": "0cc7f4998f6e0c726f1727dbe19d62d0350f5716a714fc9276cac230cda3510d",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T045724Z-mosquitto-nir1_final_connection_density-bff8af1fcd3c4d63",
+    "file": "manifest.json",
+    "sha256": "2bdedb493fc18adb09660fde565ee61de50850e730845ba5d7b23a90b2a8d1d0",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T045724Z-mosquitto-nir1_final_connection_density-bff8af1fcd3c4d63",
+    "file": "manifest.partial.json",
+    "sha256": "8dcc3edf2643efb136ef185489cef719bf37953bda776fe0a741e2421b0bf8c0",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T050517Z-mosquitto-nir1_final_connection_density-6d21d9c026d08970",
+    "file": "manifest.json",
+    "sha256": "b67a7253879f9494d0b6e177c7a6d40d60f949c07bb4aba5e1108362112992bd",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T050517Z-mosquitto-nir1_final_connection_density-6d21d9c026d08970",
+    "file": "manifest.partial.json",
+    "sha256": "e77407c90462b9bdd595252194a905ffe5a7fb8d5e610b1906130c8269611a00",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T051311Z-mosquitto-nir1_final_connection_density-71d95af4aaf98b93",
+    "file": "manifest.json",
+    "sha256": "6b459d5237fd77c7b07763fdb46c4dcb21d8b25fb245a259f03f3ce60879cb82",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T051311Z-mosquitto-nir1_final_connection_density-71d95af4aaf98b93",
+    "file": "manifest.partial.json",
+    "sha256": "ceaddc5c2cf4d1986a9142f69cc38102046f6570c00e502719353e66e865752f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T052115Z-mosquitto-nir1_final_connection_density-e45c8216d70a6548",
+    "file": "manifest.json",
+    "sha256": "8d3dc77216b2fef4d36f0d0f0736b161d1e73c50addcc52aae66025e5854847b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T052115Z-mosquitto-nir1_final_connection_density-e45c8216d70a6548",
+    "file": "manifest.partial.json",
+    "sha256": "5bb97760095381805aa8c11def31673b6d424fd9d79dcbd7206036625007f934",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T052919Z-mosquitto-nir1_final_connection_density-60f1a238dbea273c",
+    "file": "manifest.json",
+    "sha256": "c91a13c9b772cca5cae4b54ed240c88714f16943c7019ac590d0d4ee76f7bd81",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T052919Z-mosquitto-nir1_final_connection_density-60f1a238dbea273c",
+    "file": "manifest.partial.json",
+    "sha256": "71953c3a0bfdef2acd89df72dbec84f9ae050a7d96c0d2ca556d0a0c2863a384",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T053724Z-mosquitto-nir1_final_connection_density-ad5577f5fcb6cf55",
+    "file": "manifest.json",
+    "sha256": "834e721ccad93901d826ff442f78b1ffd344ca9c2d0b6a25a9d5a70d8931ffe8",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T053724Z-mosquitto-nir1_final_connection_density-ad5577f5fcb6cf55",
+    "file": "manifest.partial.json",
+    "sha256": "5110cb555d76ac36fd4003d0c1ac3cc0c9c207a0db4a1d1c0de9ae815dc5640a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T054528Z-mosquitto-nir1_final_connection_density-5fc0ffddcb4055af",
+    "file": "manifest.json",
+    "sha256": "5497ee14436a1586aeb3fd0772c33d2c9aa01e7dc497d5298f59365785b35748",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T054528Z-mosquitto-nir1_final_connection_density-5fc0ffddcb4055af",
+    "file": "manifest.partial.json",
+    "sha256": "e04adf0048c230f60c850173a9ae74b24b8510d4971eebbe7feae5b15736e01b",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T055332Z-mosquitto-nir1_final_connection_density-c45dd67ff3883362",
+    "file": "manifest.json",
+    "sha256": "57b3f43a33b127c382ae546b00f5b0c15fafb8cfb9d5a85e3c3b37bfb3947899",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T055332Z-mosquitto-nir1_final_connection_density-c45dd67ff3883362",
+    "file": "manifest.partial.json",
+    "sha256": "50263b87d53c37051d00c3ac8532c6f4f5da4eb26f01a36ee32a55f67bd61933",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T060212Z-mosquitto-nir1_final_connection_density-72a9ec15f782ef74",
+    "file": "manifest.json",
+    "sha256": "93cdf18533ab8927eb527193142c69b8b797e76bd95942e044972938ff552923",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T060212Z-mosquitto-nir1_final_connection_density-72a9ec15f782ef74",
+    "file": "manifest.partial.json",
+    "sha256": "1e647c92c3c57f9e53a1d8fb87383b7ebf2a20d9530e9a81c72f650630316648",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T061052Z-mosquitto-nir1_final_connection_density-c460ce8a88389095",
+    "file": "manifest.json",
+    "sha256": "09f49defcab3691549cd0a1b888bc0e7cb0c4b83025db8b8b68b1981a226dcff",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T061052Z-mosquitto-nir1_final_connection_density-c460ce8a88389095",
+    "file": "manifest.partial.json",
+    "sha256": "9c75b4fe356eee70ea50543e00e0a3f64c58723aa1872eba306ee6da5562db3e",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T061932Z-mosquitto-nir1_final_connection_density-dcf2bada738873ed",
+    "file": "manifest.json",
+    "sha256": "83ffdf6415b49d0f11c8080599e564001bea1328da7d55b95c7bcd705250de7a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T061932Z-mosquitto-nir1_final_connection_density-dcf2bada738873ed",
+    "file": "manifest.partial.json",
+    "sha256": "87a3b6d862bbf6d5d5228a0f129811988a2b7b67928ee3aa54b31bd4225fc63a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T062811Z-mosquitto-nir1_final_connection_density-3f885add29c9b8cb",
+    "file": "manifest.json",
+    "sha256": "3ee056f634af1c8b0521807601627e028b3471067ae00a9a4b495ea554e85124",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T062811Z-mosquitto-nir1_final_connection_density-3f885add29c9b8cb",
+    "file": "manifest.partial.json",
+    "sha256": "7d03b386efe6a0ac534a1817cd8ff754d9adaff35004838d689e00fcdab51df6",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T063652Z-mosquitto-nir1_final_connection_density-f90eac92df8600e6",
+    "file": "manifest.json",
+    "sha256": "f1de5d0ef7f5aee20e2aa5be4ff666a18fc138792a5f729143fa529a4f737a65",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T063652Z-mosquitto-nir1_final_connection_density-f90eac92df8600e6",
+    "file": "manifest.partial.json",
+    "sha256": "45183f77220269746b8eb4c663798d9a7bda3f4bc1759b6f66f01bd2b72b0485",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T064434Z-mosquitto-nir1_final_connection_density-f80d2cf2ad836617",
+    "file": "manifest.json",
+    "sha256": "64608c5040ecc1a3ee530e28bf9ae03510f8b8192f7d9658988f69c08f75bd3a",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T064434Z-mosquitto-nir1_final_connection_density-f80d2cf2ad836617",
+    "file": "manifest.partial.json",
+    "sha256": "07d2ff5b3dd7752f1e18923b94ca0507e3805e5e7231f20c744774238762158a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T065216Z-mosquitto-nir1_final_connection_density-57f0549686d5f3ac",
+    "file": "manifest.json",
+    "sha256": "635eaa9ee8c1808f1d142ff18068ebc13a72585172e6da1b6eb6bc36c2e6191b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T065216Z-mosquitto-nir1_final_connection_density-57f0549686d5f3ac",
+    "file": "manifest.partial.json",
+    "sha256": "2a2be0a289513bd255aba9bb7733177b9d15516dfe65c2d4a2cce3bf2f9194ed",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T065959Z-mosquitto-nir1_final_connection_density-00742661c44de335",
+    "file": "manifest.json",
+    "sha256": "a004e0957856a1f4a59f8176b39b4f1eb4278c2492b2d6f95bb453962da19f55",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T065959Z-mosquitto-nir1_final_connection_density-00742661c44de335",
+    "file": "manifest.partial.json",
+    "sha256": "e7100b39d25c4814e639437991969a3a0192d69c93ba91b74d444efa7f97d804",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T070741Z-mosquitto-nir1_final_connection_density-2e607366fb5b45d2",
+    "file": "manifest.json",
+    "sha256": "48457ad6be4a764da4b2c810d5ca4c1a4e7cc18bb055b2c1b463d113c6fa0a03",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T070741Z-mosquitto-nir1_final_connection_density-2e607366fb5b45d2",
+    "file": "manifest.partial.json",
+    "sha256": "fbd2745b7aa702b9f3f01181a2be8b2b9f6ac180b450d1ea4cf1c25f28f7f396",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T071523Z-mosquitto-nir1_final_connection_density-96279fd258502dbe",
+    "file": "manifest.json",
+    "sha256": "e255741e39ccb1c62505b66f51cb4c571ec518bcd09143108a8f4585a7c22c2d",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T071523Z-mosquitto-nir1_final_connection_density-96279fd258502dbe",
+    "file": "manifest.partial.json",
+    "sha256": "cbe2208785eef95010b57a080f0512f00e8b27c9bd175b44882e01b3cccb41d4",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T072308Z-mosquitto-nir1_final_connection_density-7c6d32fb18e29571",
+    "file": "manifest.json",
+    "sha256": "bc06a5d0820294d2993e18bd9287b0ca469de8bffc4a5ebd2a6cbdf44ab4fc33",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T072308Z-mosquitto-nir1_final_connection_density-7c6d32fb18e29571",
+    "file": "manifest.partial.json",
+    "sha256": "b690d81e2ed2d7240611b41a7c69e6102e207d039c4a8e2dcb6d5d5f1b9a40d9",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T073052Z-mosquitto-nir1_final_connection_density-06e95712f206c660",
+    "file": "manifest.json",
+    "sha256": "2cf38a312e75d505b9d8d9d55b02e1c20dc93a4ae6c8991dc172000f6a94393f",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T073052Z-mosquitto-nir1_final_connection_density-06e95712f206c660",
+    "file": "manifest.partial.json",
+    "sha256": "966e0a165ec4d1a82fe862e36360bddcd91706311ff91ad0af7ee92fb8d6aea0",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T073837Z-mosquitto-nir1_final_connection_density-b51fb3f1ee676de2",
+    "file": "manifest.json",
+    "sha256": "f4b5e003fae03d17ccf07cd2145fd36979268c9f7b5235f39d83234de1ddc80f",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T073837Z-mosquitto-nir1_final_connection_density-b51fb3f1ee676de2",
+    "file": "manifest.partial.json",
+    "sha256": "155f85c6cfee86a3ef5bdf983a21963a8fbebde2bdd300cf804a313d9bdbbb68",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T074621Z-mosquitto-nir1_final_connection_density-657d665907a088c0",
+    "file": "manifest.json",
+    "sha256": "aa2a40d74f02760ef9fe06f6bb7d5af0480bdbe4452099546d2998570709de31",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T074621Z-mosquitto-nir1_final_connection_density-657d665907a088c0",
+    "file": "manifest.partial.json",
+    "sha256": "3ea1ede06c4afc90bab1cf6a13da7f182ef57fde354d617e890ac41dbaff3a5b",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T075406Z-mosquitto-nir1_final_connection_density-ef602ede817e0122",
+    "file": "manifest.json",
+    "sha256": "bcc602c0fd28a6f84a2d0b9802cd2b38379c3a1279845eec939dd2604b30d799",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T075406Z-mosquitto-nir1_final_connection_density-ef602ede817e0122",
+    "file": "manifest.partial.json",
+    "sha256": "a8922e835f84b24971549db27d59be12f0ed6f5a07f297a46e4ccc10cb5d01c7",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T080159Z-mosquitto-nir1_final_connection_density-1ad7313b8ea2ce86",
+    "file": "manifest.json",
+    "sha256": "daa5a530be1b6aa22fb5e873e146451794b5bc99a825ffc81f7afc30b23e340e",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T080159Z-mosquitto-nir1_final_connection_density-1ad7313b8ea2ce86",
+    "file": "manifest.partial.json",
+    "sha256": "dde6f013d166ba067fa01035f518a19fb9edecef88385d1a2b18893ba51f8305",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T080952Z-mosquitto-nir1_final_connection_density-61efcdd43f091788",
+    "file": "manifest.json",
+    "sha256": "e54322fee36634fe91503e99609d55b522c0662ab74bd07c28c9338547cac910",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T080952Z-mosquitto-nir1_final_connection_density-61efcdd43f091788",
+    "file": "manifest.partial.json",
+    "sha256": "04450cb4f18833824befa120614ee19b2ef88c7f97d12b8e3b125e6df7f0649f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T081746Z-mosquitto-nir1_final_connection_density-5e6cbb676dfbceb7",
+    "file": "manifest.json",
+    "sha256": "bcc0b7521fa098913e2fff66ffa7a3647643ef633ba01f169fa00ec5ac837764",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T081746Z-mosquitto-nir1_final_connection_density-5e6cbb676dfbceb7",
+    "file": "manifest.partial.json",
+    "sha256": "fd9898241756f28b2f23e2e2650b46ed41469180e3871674b5d90607d958414a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T082539Z-mosquitto-nir1_final_connection_density-11ab8863e40d15ae",
+    "file": "manifest.json",
+    "sha256": "79a5070cbc770a6830a51cb4773a5b391669289a51dceaf39f80363634393a31",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T082539Z-mosquitto-nir1_final_connection_density-11ab8863e40d15ae",
+    "file": "manifest.partial.json",
+    "sha256": "c702db91787e7c5443842b7778b8894be6b909e89e28667e364220cca823f824",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T083332Z-mosquitto-nir1_final_connection_density-c0587994a630c25a",
+    "file": "manifest.json",
+    "sha256": "7c466c7e12a3aa58aa699a1771da53833920e1c950452fa842ad2489441030d7",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T083332Z-mosquitto-nir1_final_connection_density-c0587994a630c25a",
+    "file": "manifest.partial.json",
+    "sha256": "21322110196dbd02796c9174e54daa0a95281c1fe546ef060f356c99eb1fd9ee",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T084136Z-mosquitto-nir1_final_connection_density-889c026c82ea103d",
+    "file": "manifest.json",
+    "sha256": "5cd0913a622b0b2275fa7edb3bfade70cb0fcee368551f7e1559fc0dc3595689",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T084136Z-mosquitto-nir1_final_connection_density-889c026c82ea103d",
+    "file": "manifest.partial.json",
+    "sha256": "308d0ee9cd396b3346e69f18b438e2f0c798fb78ebf3cf495470802d2e02bbb0",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T084941Z-mosquitto-nir1_final_connection_density-7b4f92b83a3a67c6",
+    "file": "manifest.json",
+    "sha256": "4dfe4c4fdf4983db861402694234221450ada8a8c72473a58d603d41cab35bba",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T084941Z-mosquitto-nir1_final_connection_density-7b4f92b83a3a67c6",
+    "file": "manifest.partial.json",
+    "sha256": "f38149245b9757affe9219154937f263579c0b4a33a0e17ec37162872f66a865",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T085745Z-mosquitto-nir1_final_connection_density-2671d7263fb75273",
+    "file": "manifest.json",
+    "sha256": "3f4553a5fb39e15f33987fded681ae61d63a73416fc8d84d28d221bc079feb93",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T085745Z-mosquitto-nir1_final_connection_density-2671d7263fb75273",
+    "file": "manifest.partial.json",
+    "sha256": "940f79cb1146d676196c9b5b1e8df2ca00b6147c2839d3a7b2a369d1fc536420",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T090549Z-mosquitto-nir1_final_connection_density-c8b2b98ade9d7149",
+    "file": "manifest.json",
+    "sha256": "1815e6d62833aa23ec698ed885af79da0f46392842a31ee3cc129e0c08441679",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T090549Z-mosquitto-nir1_final_connection_density-c8b2b98ade9d7149",
+    "file": "manifest.partial.json",
+    "sha256": "8a29128dcffd26e39076155249cf88378bd6fa1086e17e8789f48a3bd70cb17f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T091354Z-mosquitto-nir1_final_connection_density-59bd6f35162b9885",
+    "file": "manifest.json",
+    "sha256": "efc6600c5761261dc214a42f32c3c33a285ae3c7699b0b0c452491ce0e40f5ce",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T091354Z-mosquitto-nir1_final_connection_density-59bd6f35162b9885",
+    "file": "manifest.partial.json",
+    "sha256": "0c0dbcdd358f15e38675e6279b746899bc7b9ad3766004a56f6c42599b5ee4b1",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T092234Z-mosquitto-nir1_final_connection_density-1c72821f135eec98",
+    "file": "manifest.json",
+    "sha256": "40bfcdf91f56b35d6fa4969355a49d1462cd5045f5a0f91a3ae229d0e224ebb5",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T092234Z-mosquitto-nir1_final_connection_density-1c72821f135eec98",
+    "file": "manifest.partial.json",
+    "sha256": "85669a1529b7c9ef0a15ace598fde0530db24109f3e5d3d6f27e5399572c016d",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T093114Z-mosquitto-nir1_final_connection_density-fc0db48509ef2e10",
+    "file": "manifest.json",
+    "sha256": "aec73e21f572fb3be180cd41cc77212d30ab90cd9576c00a4f4b8828521709d5",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T093114Z-mosquitto-nir1_final_connection_density-fc0db48509ef2e10",
+    "file": "manifest.partial.json",
+    "sha256": "3d8a73097780a3dc32b83af006517d46cef1eae46eb1a6c971c57488dcbb8579",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T093955Z-mosquitto-nir1_final_connection_density-4be38ff1c4539ca8",
+    "file": "manifest.json",
+    "sha256": "37d2804a98114d5dfd1e54f4671191859e7d822a8c43ca7915b89fd70eb6bf8b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T093955Z-mosquitto-nir1_final_connection_density-4be38ff1c4539ca8",
+    "file": "manifest.partial.json",
+    "sha256": "fdc8cc4421c8e5ea4ce5c4180c7a212930a226372f805333cd6e1a5a48fa3bfb",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T094834Z-mosquitto-nir1_final_connection_density-14e44f45cc9a9e2d",
+    "file": "manifest.json",
+    "sha256": "18df28952dbd00b2559f6837dfd80941f4d1d7a659f945c316d5e86228258be7",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T094834Z-mosquitto-nir1_final_connection_density-14e44f45cc9a9e2d",
+    "file": "manifest.partial.json",
+    "sha256": "a400d75c7ed3d0d9f12ed9b266f912b2e1038d592eb3ada6e0f025bc62253f94",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T095715Z-rabbitmq-nir1_final_connection_density-e1a423d8843e2aeb",
+    "file": "manifest.json",
+    "sha256": "39f7794b62ce83920535fbfb5b7488ac830b51290a823a57dde616d15f8707ce",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T095715Z-rabbitmq-nir1_final_connection_density-e1a423d8843e2aeb",
+    "file": "manifest.partial.json",
+    "sha256": "483d48a48aab2440165ff7d8b942d2ed2d0c76861dff1d2608e5c15d330859d9",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T100500Z-rabbitmq-nir1_final_connection_density-af6165a9b9826726",
+    "file": "manifest.json",
+    "sha256": "ff7f1cdc53d5aae7e894c8fffcd3bff8f71b696058c45b88be56993f272e3347",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T100500Z-rabbitmq-nir1_final_connection_density-af6165a9b9826726",
+    "file": "manifest.partial.json",
+    "sha256": "86a39d0c506b75d75e47b034d6fc6dca95018892a21ca40a0d7cf66e9e368b53",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T101246Z-rabbitmq-nir1_final_connection_density-eec55a7fc26b6baf",
+    "file": "manifest.json",
+    "sha256": "8ddd4718a0c3d856fa9fc43cd25058676fffd1ee9af26b6e1c78b30383001328",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T101246Z-rabbitmq-nir1_final_connection_density-eec55a7fc26b6baf",
+    "file": "manifest.partial.json",
+    "sha256": "39862a981bb0433114f335be74461b96d28226cead58d0ee202e6c0b0376fd5d",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T102032Z-rabbitmq-nir1_final_connection_density-25a0dd6867183bce",
+    "file": "manifest.json",
+    "sha256": "7bbfa7a0e3f50bdbb0150e5e491083ddfc8943c80961a84dc3a479844e9aafbf",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T102032Z-rabbitmq-nir1_final_connection_density-25a0dd6867183bce",
+    "file": "manifest.partial.json",
+    "sha256": "f1883c3dadc1181b2e3a6aa7896d2a10544ed028ad2d77db4501a465cd560e02",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T102817Z-rabbitmq-nir1_final_connection_density-ba52e6f878ee8ac0",
+    "file": "manifest.json",
+    "sha256": "dcf7e6424743a61163ae5ec1fc0681cead278b1445e8832b0324d98512264351",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T102817Z-rabbitmq-nir1_final_connection_density-ba52e6f878ee8ac0",
+    "file": "manifest.partial.json",
+    "sha256": "d72efee4e80ad685e50649dd1469eb71ee5aeb1f289ad7f03a7d014ca9032798",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T103603Z-rabbitmq-nir1_final_connection_density-b8f85fa8fe874310",
+    "file": "manifest.json",
+    "sha256": "d45a1158a150489c7fcfafafebd609278d996329abfa4ef4ab8d7f3dc6e9cbe2",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T103603Z-rabbitmq-nir1_final_connection_density-b8f85fa8fe874310",
+    "file": "manifest.partial.json",
+    "sha256": "54740c955d4ade1973a376b9ce32dbeb4a34088be11b357f3d0faae302f30a55",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T104350Z-rabbitmq-nir1_final_connection_density-ca57abd55b4867b3",
+    "file": "manifest.json",
+    "sha256": "0f0b130c6e0fdcf28304c68bd12e38398aea1fb6598deb9170ecaadbac48573b",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T104350Z-rabbitmq-nir1_final_connection_density-ca57abd55b4867b3",
+    "file": "manifest.partial.json",
+    "sha256": "02468dd804b261331d5d7c37d8ca949ef55616fecb67159871d5cb2761d23d9a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T105138Z-rabbitmq-nir1_final_connection_density-9816cbf53039ab88",
+    "file": "manifest.json",
+    "sha256": "b06b2d9f12a1d0e6c692db441b8ab307622a26a6e4abc964cd8ad732a75a6877",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T105138Z-rabbitmq-nir1_final_connection_density-9816cbf53039ab88",
+    "file": "manifest.partial.json",
+    "sha256": "87657f123be786256a152dc54ecb022a1d62665b182a1a15876f394db6ca6700",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T105927Z-rabbitmq-nir1_final_connection_density-29091042db94c209",
+    "file": "manifest.json",
+    "sha256": "bfb34bfb479c13984d5e99760d5da288451444815f3780495f8106c3d74b845d",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T105927Z-rabbitmq-nir1_final_connection_density-29091042db94c209",
+    "file": "manifest.partial.json",
+    "sha256": "de43971120504d852ef2a2ef7e25cd81c5d02675b6a44ee38c4c5aeb9ca07f2e",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T110715Z-rabbitmq-nir1_final_connection_density-79c0fa26dd3556f5",
+    "file": "manifest.json",
+    "sha256": "e7b1f19f02736de9fd728e57f63496a3ca73bcf87ce4fb28619afa03bd69e2a0",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T110715Z-rabbitmq-nir1_final_connection_density-79c0fa26dd3556f5",
+    "file": "manifest.partial.json",
+    "sha256": "888ab2e56385967d3055abb9529c54a5cb5e291efdeb3ad2aa140f1038f317ff",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T111504Z-rabbitmq-nir1_final_connection_density-9e933cb850e2aeee",
+    "file": "manifest.json",
+    "sha256": "aaa046101a219e136f542c93ef6a105b9cccc221675e46092d3b4312b41045b3",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T111504Z-rabbitmq-nir1_final_connection_density-9e933cb850e2aeee",
+    "file": "manifest.partial.json",
+    "sha256": "645071e4a1a0a4d1e1700405ff30664dd68f36a920a732db414d3f36282b8293",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T112301Z-rabbitmq-nir1_final_connection_density-6fb6b797e2629dfb",
+    "file": "manifest.json",
+    "sha256": "c0fe6ff76fbb9aa087adca8c968264371388bf5dbe10b374f93c72a4e2476995",
+    "schema_valid": true,
+    "status": "completed"
+  },
+  {
+    "run_id": "20261004T112301Z-rabbitmq-nir1_final_connection_density-6fb6b797e2629dfb",
+    "file": "manifest.partial.json",
+    "sha256": "c7b2f0789abef68cd68fcca72f26c5f6bd6c8e77962b394aea2262e9bbe7a2d5",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T113059Z-rabbitmq-nir1_final_connection_density-9af7fe63c6cbd051",
+    "file": "manifest.json",
+    "sha256": "71516c90c1377a4faab9b114a4477b3e5df1db00193af4ac63ad1126a6c41134",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261004T113059Z-rabbitmq-nir1_final_connection_density-9af7fe63c6cbd051",
+    "file": "manifest.partial.json",
+    "sha256": "16aaed54b19873e8e97f38a91f41a53323d86626a7e2429974533694d5b997a3",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T113856Z-rabbitmq-nir1_final_connection_density-cba080009bacbc4d",
+    "file": "manifest.json",
+    "sha256": "957c3145189608cc2c4c67a2bb0dfcf9b822275a28af3d9353db8aae86a27ef3",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261004T113856Z-rabbitmq-nir1_final_connection_density-cba080009bacbc4d",
+    "file": "manifest.partial.json",
+    "sha256": "4a6d08a238af9e5103d3e8b396323c8a814ce90e1fac2690832eeee8108197ed",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T114658Z-rabbitmq-nir1_final_connection_density-d7c8e647b19b3c14",
+    "file": "manifest.json",
+    "sha256": "fd52292486b2f7e12a51a4fdff7ea4025c209a7a6f44c24019e38db47ae0bae6",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261004T114658Z-rabbitmq-nir1_final_connection_density-d7c8e647b19b3c14",
+    "file": "manifest.partial.json",
+    "sha256": "24306889100447ebfe7a1aa41e1846ab6622452aa5c2ec674710a8da69a7978f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T115501Z-rabbitmq-nir1_final_connection_density-7c58ef698e294ede",
+    "file": "manifest.json",
+    "sha256": "d743c3c055939fdfedb0cd4def5bf8ef7349b1da9311a6d14828f8aff7e9067c",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261004T115501Z-rabbitmq-nir1_final_connection_density-7c58ef698e294ede",
+    "file": "manifest.partial.json",
+    "sha256": "e428fb2f3760b2528e00b83278a1c80508ec7acd44317cc1ce99418d714bb7a1",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T120317Z-rabbitmq-nir1_final_connection_density-93a5d1c7bb3d751f",
+    "file": "manifest.json",
+    "sha256": "81ea3b1ff628e20d5614816f433b9daad6a48d6456790ccc261c269d12d557d8",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261004T120317Z-rabbitmq-nir1_final_connection_density-93a5d1c7bb3d751f",
+    "file": "manifest.partial.json",
+    "sha256": "e0fa98663453a96b305b00fab1d7430d6c758d1e98f5987c8e87e6a720c84961",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T121132Z-rabbitmq-nir1_final_connection_density-3efe61df4c04197c",
+    "file": "manifest.json",
+    "sha256": "e7e768625cc97c5d9b4fee875009da135be73c8468e05636e10dbbe14fa29358",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261004T121132Z-rabbitmq-nir1_final_connection_density-3efe61df4c04197c",
+    "file": "manifest.partial.json",
+    "sha256": "aca055e7004a021a268eb195022f26d159974c1474d23b4e4c8dac14bea549bc",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T122243Z-rabbitmq-nir1_final_connection_density-96f0eadaacc9122b",
+    "file": "manifest.json",
+    "sha256": "0c0b0471556a5d27be998c3d59a65cff834dd617480d893d8b771ef132a73134",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261004T122243Z-rabbitmq-nir1_final_connection_density-96f0eadaacc9122b",
+    "file": "manifest.partial.json",
+    "sha256": "bc1447b614cbf39ab4796ee36a86a94e249762d0c2deb1edf7fd04ebe9d1172a",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T123353Z-rabbitmq-nir1_final_connection_density-6366b3546fcb7911",
+    "file": "manifest.json",
+    "sha256": "13d25f8d087ca9353baa5c18bbf3075a79b95ea469ad0ac5c3f9eae174a2939d",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261004T123353Z-rabbitmq-nir1_final_connection_density-6366b3546fcb7911",
+    "file": "manifest.partial.json",
+    "sha256": "cf551c0788867b4996fdfda0726809de92ffae81855d8432c0ccca207ad843cd",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T124503Z-rabbitmq-nir1_final_connection_density-bd2a29d65414ec6d",
+    "file": "manifest.json",
+    "sha256": "837dadff86da4328fea3ff73d9329965d62f2e9bfc3c8b963fe132b6d0fef0c9",
+    "schema_valid": true,
+    "status": "failed"
+  },
+  {
+    "run_id": "20261004T124503Z-rabbitmq-nir1_final_connection_density-bd2a29d65414ec6d",
+    "file": "manifest.partial.json",
+    "sha256": "38db4f4ed790ea7d5409e2bddf9e02d82c42b042befdd61045cb1bc830ac7c7f",
+    "schema_valid": true,
+    "status": "running"
+  },
+  {
+    "run_id": "20261004T143458Z-nats-nir1_final_message_rate-0dbc4fc5617a59b7",
+    "file": "manifest.json",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "schema_valid": false,
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "run_id": "20261004T143458Z-nats-nir1_final_message_rate-0dbc4fc5617a59b7",
+    "file": "manifest.partial.json",
+    "sha256": "26ab60da743fe94708e7b1a0d2592dd67012da169c798a78f58213ff3bad239a",
+    "schema_valid": true,
+    "status": "running"
+  }
+]

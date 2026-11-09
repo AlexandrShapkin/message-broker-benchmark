@@ -62,3 +62,11 @@ corrected resource measurements require a new run. No raw archives are edited.
 
 Large-client scientific matrices still require calibration on their target host.
 No shared-host or synthetic measurements are presented as scientific conclusions.
+
+## Архивная baseline srv0 — 2026-11-09 UTC
+
+- [x] Сохранить все исходные файлы и образы, сверить серверный SHA-256 inventory.
+- [x] Пересчитать per-run данные и строгие агрегаты; отделить auxiliary и disk-alarm observations.
+- [ ] Опубликовать русский отчёт, CSV/JSON/Parquet, PNG/SVG и воспроизводимые команды.
+- [ ] Проверить push и скачанный versioned Release перед удалением серверных данных.
+- [ ] Удалить исключительно benchmark resources srv0, проверить остатки и свободное место.

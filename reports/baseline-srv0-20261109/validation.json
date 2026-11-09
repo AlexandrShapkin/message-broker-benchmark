@@ -1,0 +1,19 @@
+{
+  "python_tests": {
+    "command": "PYTHONPATH=analysis/src .venv/bin/python -m pytest analysis/tests -q",
+    "passed": 34
+  },
+  "ruff": "passed: analysis and all five new scripts",
+  "mypy": "passed: analysis/src and all five new scripts (10 files)",
+  "chart_reproduction": {
+    "png": 35,
+    "svg": 35,
+    "repeat_sha256_identical": true
+  },
+  "new_benchmarks_run": false,
+  "manifest_schema_checks": {
+    "files": 575,
+    "valid": 574,
+    "malformed": 1
+  }
+}

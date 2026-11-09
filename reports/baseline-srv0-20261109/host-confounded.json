@@ -1,0 +1,32 @@
+[
+  {
+    "run_id": "20261004T105138Z-rabbitmq-nir1_final_connection_density-9816cbf53039ab88",
+    "status": "completed",
+    "scenario": "nir1_final_connection_density",
+    "reason": "Disk resource limit alarm; host disk pressure confounds broker capacity"
+  },
+  {
+    "run_id": "20261004T105927Z-rabbitmq-nir1_final_connection_density-29091042db94c209",
+    "status": "completed",
+    "scenario": "nir1_final_connection_density",
+    "reason": "Disk resource limit alarm; host disk pressure confounds broker capacity"
+  },
+  {
+    "run_id": "20261004T110715Z-rabbitmq-nir1_final_connection_density-79c0fa26dd3556f5",
+    "status": "completed",
+    "scenario": "nir1_final_connection_density",
+    "reason": "Disk resource limit alarm; host disk pressure confounds broker capacity"
+  },
+  {
+    "run_id": "20261004T111504Z-rabbitmq-nir1_final_connection_density-9e933cb850e2aeee",
+    "status": "completed",
+    "scenario": "nir1_final_connection_density",
+    "reason": "Disk resource limit alarm; host disk pressure confounds broker capacity"
+  },
+  {
+    "run_id": "20261004T112301Z-rabbitmq-nir1_final_connection_density-6fb6b797e2629dfb",
+    "status": "completed",
+    "scenario": "nir1_final_connection_density",
+    "reason": "Disk resource limit alarm; host disk pressure confounds broker capacity"
+  }
+]

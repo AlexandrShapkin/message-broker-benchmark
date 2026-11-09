@@ -1,0 +1,3 @@
+# Large derived metadata/timelines are included in the versioned tables archive.
+audit.json
+timeline.*
