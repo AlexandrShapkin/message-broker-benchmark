@@ -1,0 +1,8 @@
+{
+  "ruff_matches_installed_dependency": true,
+  "font_matches_installed_dependency": true,
+  "matched_embedded_literal_lengths": [
+    17125
+  ],
+  "inspection": "Two original scan flags belong to unchanged installed dependencies; no private credentials detected in snapshot publication review"
+}

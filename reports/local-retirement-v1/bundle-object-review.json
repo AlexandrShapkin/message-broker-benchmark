@@ -1,0 +1,12 @@
+[
+  {
+    "bundle": "results/final-acceptance-20260912T152826Z/source.bundle",
+    "objects_scanned": 146,
+    "secret_pattern_matches": 0
+  },
+  {
+    "bundle": "results/replay-acceptance-20260912T151146Z/source.bundle",
+    "objects_scanned": 144,
+    "secret_pattern_matches": 0
+  }
+]

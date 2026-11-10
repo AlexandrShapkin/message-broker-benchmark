@@ -1,0 +1,14 @@
+{
+  "classification": "local infrastructure acceptance, smoke and synthetic history; excluded from srv0 scientific baseline",
+  "files": 3943,
+  "bytes": 344516722,
+  "manifest_status_counts": {
+    "failed": 10,
+    "completed": 120
+  },
+  "git_bundles": [
+    "results/final-acceptance-20260912T152826Z/source.bundle",
+    "results/replay-acceptance-20260912T151146Z/source.bundle"
+  ],
+  "secret_pattern_matches": 0
+}

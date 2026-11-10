@@ -43,5 +43,7 @@ SSH, Go/Python/Node/Rust и общие кэши, agent configurations, remote-de
 
 [Машинный журнал](cleanup.json), [вывод удаления](cleanup-log.txt),
 [независимая SSH-проверка](cleanup-verification.txt).
-Неустранённых блокеров очистки benchmark нет. Полный исходный снимок сохранён
-приватно на ThinkPad; опубликованные raw data и таблицы остаются в versioned Release.
+Неустранённых блокеров очистки benchmark нет. Полный исходный снимок дополнительно сохранён в
+[Release local-retirement-v1](https://github.com/AlexandrShapkin/message-broker-benchmark/releases/tag/local-retirement-v1);
+исходные raw data и таблицы остаются в основном versioned Release. Прежний
+локальный checkout для восстановления не требуется.

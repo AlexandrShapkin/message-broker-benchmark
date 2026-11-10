@@ -70,3 +70,10 @@ No shared-host or synthetic measurements are presented as scientific conclusions
 - [x] Опубликовать русский отчёт, CSV/JSON/Parquet, PNG/SVG и воспроизводимые команды.
 - [x] Проверить push и скачанный versioned Release перед удалением серверных данных.
 - [x] Удалить исключительно benchmark resources srv0, проверить остатки и свободное место.
+
+## Независимость от локальной копии — 2026-11-10
+
+- [x] Вставить ключевые графики, пояснения и выводы в корневой README.
+- [x] Сохранить локальную acceptance-историю, source bundles и полный снимок srv0 в дополнительном Release.
+- [x] Проверить скачанные assets и восстановление из чистого GitHub clone.
+- [x] Опубликовать инструкцию восстановления и проверить remote commit.

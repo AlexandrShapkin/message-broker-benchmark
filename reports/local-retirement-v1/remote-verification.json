@@ -1,0 +1,38 @@
+{
+  "all_remote_assets_verified": true,
+  "github_assets": 12,
+  "downloaded_small_assets": 7,
+  "downloaded_snapshot_parts": [
+    {
+      "name": "srv0-full-snapshot-v1.tar.gz.part-000",
+      "bytes": 1572864000,
+      "sha256": "75f264da27e604dca26274af7faa2d66438c2a6764b14425e05e872fc0ac9997",
+      "download_verified": true
+    },
+    {
+      "name": "srv0-full-snapshot-v1.tar.gz.part-001",
+      "bytes": 1572864000,
+      "sha256": "9bc3edcd453df45b239c800e5439f79067f9eea4ef371b24cb69b256e16de367",
+      "download_verified": true
+    },
+    {
+      "name": "srv0-full-snapshot-v1.tar.gz.part-002",
+      "bytes": 1572864000,
+      "sha256": "527bcd73aa004aed85f3f4d49ce865746186de6ebe976b7d55e448d43bd8d89e",
+      "download_verified": true
+    },
+    {
+      "name": "srv0-full-snapshot-v1.tar.gz.part-003",
+      "bytes": 1216033165,
+      "sha256": "c9cf0f15b80255aea3799af397eee794639bea724697b9d994c19512a20efb1c",
+      "download_verified": true
+    }
+  ],
+  "full_snapshot_bytes": 5934625165,
+  "full_snapshot_sha256": "6ff09befae8d9bfe3e7dfd71f7179c1c7a7162577993f95ae6a3dec1786c1936",
+  "split_equals_original_snapshot": true,
+  "local_history_files_restored_and_verified": 3943,
+  "both_source_bundles_restored": true,
+  "fresh_github_clone_worktree_clean": true,
+  "local_checkout_needed_for_recovery": false
+}

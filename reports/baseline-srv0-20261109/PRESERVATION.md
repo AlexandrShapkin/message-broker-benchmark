@@ -8,8 +8,11 @@ benchmark processes/containers отсутствовали; старые partial 
 
 Сохранены оба каталога: `message-broker-benchmark` и `benchmark-plan`, включая
 raw results, YAML, configs, HDR, логи, failed/incomplete, очереди и checkpoint
-analysis. Полный приватный снимок и серверный inventory сохранены на ThinkPad.
-Опубликованный архив исключает `.git`, `.venv`, бинарники и кэши. Каждый пропуск
+analysis. Серверный inventory и полный оригинальный снимок дополнительно
+сохранены в [Release local-retirement-v1](https://github.com/AlexandrShapkin/message-broker-benchmark/releases/tag/local-retirement-v1);
+локальный архив ThinkPad больше не является единственной копией.
+Компактный архив основной baseline исключает `.git`, `.venv`, бинарники и кэши.
+Дополнительный полный снимок сохраняет их после проверки безопасной публикации. Каждый пропуск
 перечислен в `publication-omissions.json`; исходные measurements не редактировались.
 Пустые каталоги попыток представлены отдельным `run-directories.txt`, содержащим
 все 290 имён, в том числе два каталога без файлов.

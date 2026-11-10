@@ -1,0 +1,10 @@
+{
+  "fresh_clone_from_github": true,
+  "downloaded_files_verified": 3943,
+  "bytes_verified": 344516722,
+  "restored_bundles": [
+    "results/final-acceptance-20260912T152826Z/source.bundle",
+    "results/replay-acceptance-20260912T151146Z/source.bundle"
+  ],
+  "git_worktree_clean_after_restore": true
+}
