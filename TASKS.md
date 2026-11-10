@@ -67,6 +67,6 @@ No shared-host or synthetic measurements are presented as scientific conclusions
 
 - [x] Сохранить все исходные файлы и образы, сверить серверный SHA-256 inventory.
 - [x] Пересчитать per-run данные и строгие агрегаты; отделить auxiliary и disk-alarm observations.
-- [ ] Опубликовать русский отчёт, CSV/JSON/Parquet, PNG/SVG и воспроизводимые команды.
-- [ ] Проверить push и скачанный versioned Release перед удалением серверных данных.
-- [ ] Удалить исключительно benchmark resources srv0, проверить остатки и свободное место.
+- [x] Опубликовать русский отчёт, CSV/JSON/Parquet, PNG/SVG и воспроизводимые команды.
+- [x] Проверить push и скачанный versioned Release перед удалением серверных данных.
+- [x] Удалить исключительно benchmark resources srv0, проверить остатки и свободное место.

@@ -1,0 +1,24 @@
+Tue Nov 10 00:01:29 UTC 2026
+Filesystem                           1B-blocks        Used   Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv 105089261568 77439713280 22264061952  78% /
+60121401488	/home/shapkin_as/message-broker-benchmark
+94206373	/home/shapkin_as/benchmark-plan
+Untagged: eclipse-mosquitto@sha256:212f89e1eaeb2c322d6441b64396e3346026674db8fa9c27beac293405c32b3c
+Deleted: sha256:212f89e1eaeb2c322d6441b64396e3346026674db8fa9c27beac293405c32b3c
+Untagged: apache/kafka@sha256:9a129e03121d46d74349a480f8f17082df3dd411b28281c9eabb95cf096370b9
+Deleted: sha256:9a129e03121d46d74349a480f8f17082df3dd411b28281c9eabb95cf096370b9
+Untagged: nats@sha256:71092f77d707a4a81b12aca5096d6b2d2e07ad16aa57c84066940a17af74f61a
+Deleted: sha256:71092f77d707a4a81b12aca5096d6b2d2e07ad16aa57c84066940a17af74f61a
+Untagged: rabbitmq@sha256:294b01e1796a8acede4619f32a1c394fae1f8021e57986ea01aad38dc2a4f502
+Deleted: sha256:294b01e1796a8acede4619f32a1c394fae1f8021e57986ea01aad38dc2a4f502
+Tue Nov 10 00:01:31 UTC 2026
+Filesystem                           1B-blocks        Used   Available Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv 105089261568 16091226112 83612549120  17% /
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+WARNING: This output is designed for human readability. For machine-readable output, please use --format.
+IMAGE   ID             DISK USAGE   CONTENT SIZE   EXTRA
+DRIVER    VOLUME NAME
+NETWORK ID     NAME      DRIVER    SCOPE
+eb1921d02058   bridge    bridge    local
+2658090060fb   host      host      local
+6f6ce300909a   none      null      local

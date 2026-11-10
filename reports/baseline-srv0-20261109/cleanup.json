@@ -1,0 +1,40 @@
+{
+  "host": "srv0",
+  "started_at_utc": "2026-11-10T00:01:29Z",
+  "finished_at_utc": "2026-11-10T00:01:31Z",
+  "independent_verification_at_utc": "2026-11-10T00:02:18Z",
+  "removed_directories": [
+    "/home/shapkin_as/message-broker-benchmark",
+    "/home/shapkin_as/benchmark-plan"
+  ],
+  "removed_images": [
+    "eclipse-mosquitto@sha256:212f89e1eaeb2c322d6441b64396e3346026674db8fa9c27beac293405c32b3c",
+    "apache/kafka@sha256:9a129e03121d46d74349a480f8f17082df3dd411b28281c9eabb95cf096370b9",
+    "nats@sha256:71092f77d707a4a81b12aca5096d6b2d2e07ad16aa57c84066940a17af74f61a",
+    "rabbitmq@sha256:294b01e1796a8acede4619f32a1c394fae1f8021e57986ea01aad38dc2a4f502"
+  ],
+  "disk_used_bytes_before": 77439713280,
+  "disk_used_bytes_after": 16091226112,
+  "recovered_bytes": 61348487168,
+  "available_bytes_after": 83612549120,
+  "remaining_benchmark_processes": 0,
+  "remaining_containers": 0,
+  "remaining_images": 0,
+  "remaining_volumes": 0,
+  "retained_networks": [
+    "bridge",
+    "host",
+    "none"
+  ],
+  "retained_shared_resources": [
+    "SSH access/service",
+    "Docker Engine/containerd",
+    "Go/Python/Node/Rust tools and shared caches",
+    "remote-desktop service and unrelated user/system services",
+    "agent configurations and unrelated home data"
+  ],
+  "remote_preservation_verified_before_deletion": true,
+  "release": "baseline-srv0-20261109-v1",
+  "baseline_commit_verified": "6888b948c9c9953d281b7efb1fe5baf278dce912",
+  "unresolved_benchmark_cleanup_blockers": []
+}
